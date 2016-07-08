@@ -1,0 +1,68 @@
+<div class="container-fluid">
+  <div class="row">
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <sidebar></sidebar>
+        <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+               <a class="navbar-brand" href="#">Panaderias OroPan Y La Catedral </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <form class="navbar-form navbar-right" >
+                <input ng-model="query" type="text" class="form-control" placeholder="Buscar...">
+              </form>
+            </div>
+        </div>
+      </nav>
+         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            <h1 class="page-header">Global</h1>
+            <company-list></company-list>
+            <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                 <a class="navbar-brand" href="#">Panaderias OroPan Y La Catedral </a>
+              </div>
+              <div id="navbar" class="navbar-collapse collapse">
+                <form class="navbar-form navbar-right" >
+                  <input ng-model="query" type="text" class="form-control" placeholder="Buscar...">
+                </form>
+              </div>
+            </div>
+            </nav>
+            <h2 class="sub-header">Global OroPan</h2>
+                <div class="table-responsive">
+                  <table class="table table-striped">
+                    <thead>
+                        <tr>
+                        <th><a href="" ng-click="sortField='name'; reverse=!reverse">Nombre</a></th>
+                        <th><a href="" ng-click="sortField='population'; reverse=!reverse" >Populacion</a></th>
+                        <th><a href="" ng-click="sortField='capital'; reverse=!reverse">Capital</a></th>
+                        <th><a href="" ng-click="sortField='gdp';reverse=!reverse">GDP</a></th>
+                         <th>Bandera</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr ng-repeat="entrada in entradasOroPan | filter:query | orderBy:sortField:reverse" >
+                       <td> <a href="#/{{entrada.name}}">{{entrada.drname}}</a> </td>
+                        <td>{{entrada.population | number}}</td>
+                         <td>{{entrada.capital}}</td>
+                          <td>{{entrada.gdp | currency}}</td>
+                        <td><img ng-src="{{entrada.flagURL}}" width="100"></img></td>
+                      </tr>
+                    </tbody>
+                  </table>
+            </div>
+          </div>
+        </div>
+</div>

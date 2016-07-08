@@ -1,0 +1,23 @@
+ <h2 class="sub-header">Global {{country.name}}</h2>
+                <div class="table-responsive">
+                  <table class="table table-striped">
+                    <thead>
+                        <tr>
+                        <th><a href="" ng-click="sortField='name'; reverse=!reverse">Nombre</a></th>
+                        <th><a href="" ng-click="sortField='population'; reverse=!reverse" >Populacion</a></th>
+                        <th><a href="" ng-click="sortField='capital'; reverse=!reverse">Capital</a></th>
+                        <th><a href="" ng-click="sortField='gdp';reverse=!reverse">GDP</a></th>
+                         <th>Bandera</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                       <td> <a href="#/{{country.name}}">{{country.drname}}</a> </td>
+                        <td>{{country.population | number}}</td>
+                         <td>{{country.capital}}</td>
+                          <td>{{country.gdp | currency}}</td>
+                        <td><img ng-src="{{country.flagURL}}" width="100"></img></td>
+                      </tr>
+                    </tbody>
+                  </table>
+            </div>

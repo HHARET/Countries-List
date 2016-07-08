@@ -1,0 +1,23 @@
+{
+  "name": "oro-pan",
+  "version": "1.0.0",
+  "description": "este es una version de prueba para el control personal de panaderia oro pan",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/TarekTTG/OroPan.git"
+  },
+  "keywords": [
+    "panaderia"
+  ],
+  "author": "Tarek",
+  "license": "ISC"
+}

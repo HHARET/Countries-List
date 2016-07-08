@@ -5,4 +5,3 @@ angular.module('panaderiasApp')
 	   		$scope.country=country;
 	   	});
 	   });
-    

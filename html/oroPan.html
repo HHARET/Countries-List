@@ -54,7 +54,7 @@
                     </thead>
                     <tbody>
                       <tr ng-repeat="entrada in entradasOroPan | filter:query | orderBy:sortField:reverse" >
-                       <td> <a href="#/{{entrada.name}}">{{entrada.drname}}</a> </td>
+                       <td> <a href="#/{{entrada.name}}">{{entrada.name}}</a> </td>
                         <td>{{entrada.population | number}}</td>
                          <td>{{entrada.capital}}</td>
                           <td>{{entrada.gdp | currency}}</td>

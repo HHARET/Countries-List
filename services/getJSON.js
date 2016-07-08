@@ -9,7 +9,7 @@ angular.module('panaderiasApp')
 	   	 		callback(cachedData);
 	   	 	}
 	   	 	else{
-	   	 		$http.get('mock/jsonFile.json').success(function(data){
+	   	 		$http.get('mock/countries.json').success(function(data){
 	   	 			cachedData=data;
 
 	   	 			//future code to preprocess the data

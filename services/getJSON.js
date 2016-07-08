@@ -23,7 +23,7 @@ angular.module('panaderiasApp')
 	   			find: function(name,callback){
 	   					getData(function(data){
 	   					var country = data.filter(function(entry){
-	   						return entry.drname===name;
+	   						return entry.name===name;
 	   					})[0];
 	   					callback(country);
 	   				});

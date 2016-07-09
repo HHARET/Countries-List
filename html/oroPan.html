@@ -35,7 +35,7 @@
               </div>
               <div id="e cnavbar" class="navbar-collapse collapse">
                 <form class="navbar-form navbar-right" >
-                  <input ng-model="query" type="text" class="form-control" placeholder="Buscar...">
+                  <input ng-model="query" type="text" class="form-control" placeholder="Search...">
                 </form>
               </div>
             </div>
@@ -52,12 +52,12 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr ng-repeat="entrada in entradasOroPan | filter:query | orderBy:sortField:reverse" >
-                       <td> <a href="#/{{entrada.name}}">{{entrada.name}}</a> </td>
-                        <td>{{entrada.population | number}}</td>
-                         <td>{{entrada.capital}}</td>
-                          <td>{{entrada.gdp | currency}}</td>
-                        <td><img ng-src="{{entrada.flagURL}}" width="100"></img></td>
+                      <tr ng-repeat="country in countriesList | filter:query | orderBy:sortField:reverse" >
+                       <td> <a href="#/{{country.name}}">{{country.name}}</a> </td>
+                        <td>{{country.population | number}}</td>
+                         <td>{{country.capital}}</td>
+                          <td>{{country.gdp | currency}}</td>
+                        <td><img ng-src="{{country.flagURL}}" width="100"></img></td>
                       </tr>
                     </tbody>
                   </table>

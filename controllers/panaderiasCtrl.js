@@ -3,7 +3,7 @@ angular
 	.module('countriesApp')
     .controller('panaderiasCtrl', function ($scope,getJSON){
         getJSON.list(function(countries){
-          $scope.entradasOroPan=countries;
+          $scope.countriesList=countries;
         });
         $scope.sortField="-population";
       	});

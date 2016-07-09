@@ -1,5 +1,5 @@
 'use strict';
-      angular.module('panaderiasApp').config(function($routeProvider) {
+      angular.module('countriesApp').config(function($routeProvider) {
         $routeProvider.
           when('/', {
             templateUrl: 'html/oroPan.html',

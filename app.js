@@ -1,1 +1,1 @@
-var panaderiasApp = angular.module('panaderiasApp', ['ngRoute']);
+var countriesApp = angular.module('countriesApp', ['ngRoute']);

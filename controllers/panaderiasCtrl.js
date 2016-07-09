@@ -1,10 +1,9 @@
 'use strict';
 angular
-	.module('panaderiasApp')
+	.module('countriesApp')
     .controller('panaderiasCtrl', function ($scope,getJSON){
-        getJSON.list(function(countries){   
+        getJSON.list(function(countries){
           $scope.entradasOroPan=countries;
         });
         $scope.sortField="-population";
       	});
-  

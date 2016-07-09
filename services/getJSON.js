@@ -1,7 +1,7 @@
 'use strict';
 //this is a service used to get the list from the json file to avoid repeating code
 //and to reduce the networking burden on the server by getting the json list only once using the catchedData variable instead of getting it each time needed
-angular.module('panaderiasApp')
+angular.module('countriesApp')
 	   .factory('getJSON',function($http){
 	   	 var cachedData;
 	   	 function getData(callback){

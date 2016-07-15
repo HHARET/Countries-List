@@ -6,4 +6,4 @@ angular
           $scope.countriesList=countries;
         });
         $scope.sortField="-population";
-      	});
+				});

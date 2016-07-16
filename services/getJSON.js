@@ -20,10 +20,10 @@ angular.module('countriesApp')
 	   	 }
 	   		return {
 	   			list: getData,
-	   			find: function(name,callback){
+	   			find: function(countryName,callback){
 	   					getData(function(data){
 	   					var country = data.filter(function(entry){
-	   						return entry.name===name;
+	   						return entry.name===countryName;
 	   					})[0];
 	   					callback(country);
 	   				});

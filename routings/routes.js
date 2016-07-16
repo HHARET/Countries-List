@@ -6,8 +6,8 @@
             controller: 'countryListCtrl'
           }).
           when('/:countryName', {
-            templateUrl: 'html/countryDetails.html',
-            controller: 'countryDetailsController'
+            templateUrl: 'country-details/countryDetails.template.html',
+            controller: 'countryDetailsCtrl'
           }).
           otherwise({
             redirectTo: '/'

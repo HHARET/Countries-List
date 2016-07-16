@@ -2,8 +2,8 @@
       angular.module('countriesApp').config(function($routeProvider) {
         $routeProvider.
           when('/', {
-            templateUrl: 'html/oroPan.html',
-            controller: 'panaderiasCtrl'
+            templateUrl: 'country-list/countryList.template.html',
+            controller: 'countryListCtrl'
           }).
           when('/:countryName', {
             templateUrl: 'html/countryDetails.html',

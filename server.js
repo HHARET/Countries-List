@@ -1,4 +1,4 @@
-var port = process.env.PORT || 4000,
+var port = process.env.PORT || 8000,
     express = require('express'),
     app = express();
 app.use('/', express.static(__dirname));

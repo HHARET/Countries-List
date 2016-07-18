@@ -910,7 +910,8 @@
                 "areaInSqKm": "9596960.0",
                 "languages": "zh-CN,yue,wuu,dta,ug,za",
                 "isoAlpha3": "CHN",
-                "geonameId": "1814991"
+                "geonameId": "1814991",
+                "flagURL":"//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
             },
             {
                 "countryCode": "CO",

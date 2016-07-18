@@ -18,17 +18,15 @@ angular.module('countriesApp')
 	   	 		});
 	   	 	}
 	   	 }
-	   		return {
-	   			list: getData,
-	   			find: function(countryName,callback){
-	   					getData(function(data){
-	   					var country = data.filter(function(entry){
-	   						return entry.name===countryName;
-	   					})[0];
-	   					callback(country);
-	   				});
-	   			}
-
-	   		};
-
-	   });
+			 return {
+          list: getData,
+          find: function(name, callback){
+            getData(function(data) {
+              var country = data.filter(function(entry){
+                return entry.countryName === name;
+              })[0];
+              callback(country);
+            });
+          }
+        };
+      });

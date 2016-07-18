@@ -34,7 +34,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "82880.0",
-                "languages": "ar-AE,fa,en,hi,ur",
+                "languages": "ar-ع-AE,fa,en,hi,ur",
                 "isoAlpha3": "ARE",
                 "geonameId": "290557"
             },
@@ -433,7 +433,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "665.0",
-                "languages": "ar-BH,en,fa,ur",
+                "languages": "ar-ع-BH,en,fa,ur",
                 "isoAlpha3": "BHR",
                 "geonameId": "290291"
             },
@@ -1174,7 +1174,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "2381740.0",
-                "languages": "ar-DZ",
+                "languages": "ar-ع-DZ",
                 "isoAlpha3": "DZA",
                 "geonameId": "2589581"
             },
@@ -1231,7 +1231,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "1001450.0",
-                "languages": "ar-EG,en,fr",
+                "languages": "ar-ع-EG,en,fr",
                 "isoAlpha3": "EGY",
                 "geonameId": "357994"
             },
@@ -1953,7 +1953,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "20770.0",
-                "languages": "he,ar-IL,en-IL,",
+                "languages": "he,ar-ع-IL,en-IL,",
                 "isoAlpha3": "ISR",
                 "geonameId": "294640"
             },
@@ -2029,7 +2029,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "437072.0",
-                "languages": "ar-IQ,ku,hy",
+                "languages": "ar-ع-IQ,ku,hy",
                 "isoAlpha3": "IRQ",
                 "geonameId": "99237"
             },
@@ -2143,7 +2143,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "92300.0",
-                "languages": "ar-JO,en",
+                "languages": "ar-ع-JO,en",
                 "isoAlpha3": "JOR",
                 "geonameId": "248816"
             },
@@ -2333,7 +2333,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "17820.0",
-                "languages": "ar-KW,en",
+                "languages": "ar-ع-KW,en",
                 "isoAlpha3": "KWT",
                 "geonameId": "285570"
             },
@@ -2409,7 +2409,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "10400.0",
-                "languages": "ar-LB,fr-LB,en,hy",
+                "languages": "ar-ع-LB,fr-LB,en,hy",
                 "isoAlpha3": "LBN",
                 "geonameId": "272103"
             },
@@ -2580,7 +2580,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "1759540.0",
-                "languages": "ar-LY,it,en",
+                "languages": "ar-ع-LY,it,en",
                 "isoAlpha3": "LBY",
                 "geonameId": "2215636"
             },
@@ -2599,7 +2599,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "446550.0",
-                "languages": "ar-MA,fr",
+                "languages": "ar-ع-MA,fr",
                 "isoAlpha3": "MAR",
                 "geonameId": "2542007"
             },
@@ -2865,7 +2865,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "1030700.0",
-                "languages": "ar-MR,fuc,snk,fr,mey,wo",
+                "languages": "ar-ع-MR,fuc,snk,fr,mey,wo",
                 "isoAlpha3": "MRT",
                 "geonameId": "2378080"
             },
@@ -3264,7 +3264,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "212460.0",
-                "languages": "ar-OM,en,bal,ur",
+                "languages": "ar-ع-OM,en,bal,ur",
                 "isoAlpha3": "OMN",
                 "geonameId": "286963"
             },
@@ -3473,7 +3473,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "5970.0",
-                "languages": "ar-PS",
+                "languages": "ar-ع-PS",
                 "isoAlpha3": "PSE",
                 "geonameId": "6254930"
             },
@@ -3549,7 +3549,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "11437.0",
-                "languages": "ar-QA,es",
+                "languages": "ar-ع-QA,es",
                 "isoAlpha3": "QAT",
                 "geonameId": "289688"
             },
@@ -3663,7 +3663,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "1960582.0",
-                "languages": "ar-SA",
+                "languages": "ar-ع-SA",
                 "isoAlpha3": "SAU",
                 "geonameId": "102358"
             },
@@ -3720,7 +3720,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "1861484.0",
-                "languages": "ar-SD,en,fia",
+                "languages": "ar-ع-SD,en,fia",
                 "isoAlpha3": "SDN",
                 "geonameId": "366755"
             },
@@ -3910,7 +3910,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "637657.0",
-                "languages": "so-SO,ar-SO,it,en-SO",
+                "languages": "so-SO,ar-ع-SO,it,en-SO",
                 "isoAlpha3": "SOM",
                 "geonameId": "51537"
             },
@@ -4024,7 +4024,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "185180.0",
-                "languages": "ar-SY,ku,hy,arc,fr,en",
+                "languages": "ar-ع-SY,ku,hy,arc,fr,en",
                 "isoAlpha3": "SYR",
                 "geonameId": "163843"
             },
@@ -4081,7 +4081,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "1284000.0",
-                "languages": "fr-TD,ar-TD,sre",
+                "languages": "fr-TD,ar-ع-TD,sre",
                 "isoAlpha3": "TCD",
                 "geonameId": "2434508"
             },
@@ -4233,7 +4233,7 @@
                 "continentName": "Africa",
                 "continent": "AF",
                 "areaInSqKm": "163610.0",
-                "languages": "ar-TN,fr",
+                "languages": "ar-ع-TN,fr",
                 "isoAlpha3": "TUN",
                 "geonameId": "2464461"
             },
@@ -4670,7 +4670,7 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "527970.0",
-                "languages": "ar-YE",
+                "languages": "ar-ع-YE",
                 "isoAlpha3": "YEM",
                 "geonameId": "69543"
             },

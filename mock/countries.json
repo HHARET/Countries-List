@@ -17,7 +17,8 @@
                 "areaInSqKm": "468.0",
                 "languages": "ca",
                 "isoAlpha3": "AND",
-                "geonameId": "3041565"
+                "geonameId": "3041565",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
             },
             {
                 "countryCode": "AE",
@@ -36,7 +37,8 @@
                 "areaInSqKm": "82880.0",
                 "languages": "ar-ع-AE,fa,en,hi,ur",
                 "isoAlpha3": "ARE",
-                "geonameId": "290557"
+                "geonameId": "290557",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
             },
             {
                 "countryCode": "AF",
@@ -55,7 +57,8 @@
                 "areaInSqKm": "647500.0",
                 "languages": "fa-AF,ps,uz-AF,tk",
                 "isoAlpha3": "AFG",
-                "geonameId": "1149361"
+                "geonameId": "1149361",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg"
             },
             {
                 "countryCode": "AG",
@@ -74,7 +77,8 @@
                 "areaInSqKm": "443.0",
                 "languages": "en-AG",
                 "isoAlpha3": "ATG",
-                "geonameId": "3576396"
+                "geonameId": "3576396",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
             },
             {
                 "countryCode": "AI",
@@ -93,7 +97,8 @@
                 "areaInSqKm": "102.0",
                 "languages": "en-AI",
                 "isoAlpha3": "AIA",
-                "geonameId": "3573511"
+                "geonameId": "3573511",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg"
             },
             {
                 "countryCode": "AL",
@@ -112,7 +117,8 @@
                 "areaInSqKm": "28748.0",
                 "languages": "sq,el",
                 "isoAlpha3": "ALB",
-                "geonameId": "783754"
+                "geonameId": "783754",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
             },
             {
                 "countryCode": "AM",
@@ -131,7 +137,8 @@
                 "areaInSqKm": "29800.0",
                 "languages": "hy",
                 "isoAlpha3": "ARM",
-                "geonameId": "174982"
+                "geonameId": "174982",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
             },
             {
                 "countryCode": "AO",
@@ -150,7 +157,8 @@
                 "areaInSqKm": "1246700.0",
                 "languages": "pt-AO",
                 "isoAlpha3": "AGO",
-                "geonameId": "3351879"
+                "geonameId": "3351879",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
             },
             {
                 "countryCode": "AQ",
@@ -169,7 +177,8 @@
                 "areaInSqKm": "1.4E7",
                 "languages": "",
                 "isoAlpha3": "ATA",
-                "geonameId": "6697173"
+                "geonameId": "6697173",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_the_Antarctic_Treaty.svg"
             },
             {
                 "countryCode": "AR",
@@ -188,7 +197,8 @@
                 "areaInSqKm": "2766890.0",
                 "languages": "es-AR,en,it,de,fr,gn",
                 "isoAlpha3": "ARG",
-                "geonameId": "3865483"
+                "geonameId": "3865483",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
             },
             {
                 "countryCode": "AS",
@@ -207,7 +217,8 @@
                 "areaInSqKm": "199.0",
                 "languages": "en-AS,sm,to",
                 "isoAlpha3": "ASM",
-                "geonameId": "5880801"
+                "geonameId": "5880801",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg"
             },
             {
                 "countryCode": "AT",
@@ -226,7 +237,8 @@
                 "areaInSqKm": "83858.0",
                 "languages": "de-AT,hr,hu,sl",
                 "isoAlpha3": "AUT",
-                "geonameId": "2782113"
+                "geonameId": "2782113",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
             },
             {
                 "countryCode": "AU",
@@ -245,7 +257,8 @@
                 "areaInSqKm": "7686850.0",
                 "languages": "en-AU",
                 "isoAlpha3": "AUS",
-                "geonameId": "2077456"
+                "geonameId": "2077456",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
             },
             {
                 "countryCode": "AW",
@@ -264,7 +277,8 @@
                 "areaInSqKm": "193.0",
                 "languages": "nl-AW,es,en",
                 "isoAlpha3": "ABW",
-                "geonameId": "3577279"
+                "geonameId": "3577279",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg"
             },
             {
                 "countryCode": "AX",
@@ -283,7 +297,8 @@
                 "areaInSqKm": "1580.0",
                 "languages": "sv-AX",
                 "isoAlpha3": "ALA",
-                "geonameId": "661882"
+                "geonameId": "661882",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg"
             },
             {
                 "countryCode": "AZ",
@@ -302,7 +317,8 @@
                 "areaInSqKm": "86600.0",
                 "languages": "az,ru,hy",
                 "isoAlpha3": "AZE",
-                "geonameId": "587116"
+                "geonameId": "587116",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
             },
             {
                 "countryCode": "BA",
@@ -321,7 +337,8 @@
                 "areaInSqKm": "51129.0",
                 "languages": "bs,hr-BA,sr-BA",
                 "isoAlpha3": "BIH",
-                "geonameId": "3277605"
+                "geonameId": "3277605",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
             },
             {
                 "countryCode": "BB",
@@ -340,7 +357,8 @@
                 "areaInSqKm": "431.0",
                 "languages": "en-BB",
                 "isoAlpha3": "BRB",
-                "geonameId": "3374084"
+                "geonameId": "3374084",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
             },
             {
                 "countryCode": "BD",
@@ -359,7 +377,8 @@
                 "areaInSqKm": "144000.0",
                 "languages": "bn-BD,en",
                 "isoAlpha3": "BGD",
-                "geonameId": "1210997"
+                "geonameId": "1210997",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
             },
             {
                 "countryCode": "BE",
@@ -378,7 +397,8 @@
                 "areaInSqKm": "30510.0",
                 "languages": "nl-BE,fr-BE,de-BE",
                 "isoAlpha3": "BEL",
-                "geonameId": "2802361"
+                "geonameId": "2802361",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
             },
             {
                 "countryCode": "BF",
@@ -397,7 +417,8 @@
                 "areaInSqKm": "274200.0",
                 "languages": "fr-BF",
                 "isoAlpha3": "BFA",
-                "geonameId": "2361809"
+                "geonameId": "2361809",
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
             },
             {
                 "countryCode": "BG",
@@ -416,7 +437,8 @@
                 "areaInSqKm": "110910.0",
                 "languages": "bg,tr-BG,rom",
                 "isoAlpha3": "BGR",
-                "geonameId": "732800"
+                "geonameId": "732800",
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
             },
             {
                 "countryCode": "BH",
@@ -435,7 +457,8 @@
                 "areaInSqKm": "665.0",
                 "languages": "ar-ع-BH,en,fa,ur",
                 "isoAlpha3": "BHR",
-                "geonameId": "290291"
+                "geonameId": "290291",
+	    "flagURL":""
             },
             {
                 "countryCode": "BI",
@@ -454,7 +477,8 @@
                 "areaInSqKm": "27830.0",
                 "languages": "fr-BI,rn",
                 "isoAlpha3": "BDI",
-                "geonameId": "433561"
+                "geonameId": "433561",
+	    "flagURL":""
             },
             {
                 "countryCode": "BJ",
@@ -473,7 +497,8 @@
                 "areaInSqKm": "112620.0",
                 "languages": "fr-BJ",
                 "isoAlpha3": "BEN",
-                "geonameId": "2395170"
+                "geonameId": "2395170",
+	    "flagURL":""
             },
             {
                 "countryCode": "BL",
@@ -492,7 +517,8 @@
                 "areaInSqKm": "21.0",
                 "languages": "fr",
                 "isoAlpha3": "BLM",
-                "geonameId": "3578476"
+                "geonameId": "3578476",
+	    "flagURL":""
             },
             {
                 "countryCode": "BM",
@@ -511,7 +537,8 @@
                 "areaInSqKm": "53.0",
                 "languages": "en-BM,pt",
                 "isoAlpha3": "BMU",
-                "geonameId": "3573345"
+                "geonameId": "3573345",
+	    "flagURL":""
             },
             {
                 "countryCode": "BN",
@@ -530,7 +557,8 @@
                 "areaInSqKm": "5770.0",
                 "languages": "ms-BN,en-BN",
                 "isoAlpha3": "BRN",
-                "geonameId": "1820814"
+                "geonameId": "1820814",
+	    "flagURL":""
             },
             {
                 "countryCode": "BO",
@@ -549,7 +577,8 @@
                 "areaInSqKm": "1098580.0",
                 "languages": "es-BO,qu,ay",
                 "isoAlpha3": "BOL",
-                "geonameId": "3923057"
+                "geonameId": "3923057",
+	    "flagURL":""
             },
             {
                 "countryCode": "BQ",
@@ -568,7 +597,8 @@
                 "areaInSqKm": "328.0",
                 "languages": "nl,pap,en",
                 "isoAlpha3": "BES",
-                "geonameId": "7626844"
+                "geonameId": "7626844",
+	    "flagURL":""
             },
             {
                 "countryCode": "BR",
@@ -587,7 +617,8 @@
                 "areaInSqKm": "8511965.0",
                 "languages": "pt-BR,es,en,fr",
                 "isoAlpha3": "BRA",
-                "geonameId": "3469034"
+                "geonameId": "3469034",
+	    "flagURL":""
             },
             {
                 "countryCode": "BS",
@@ -606,7 +637,8 @@
                 "areaInSqKm": "13940.0",
                 "languages": "en-BS",
                 "isoAlpha3": "BHS",
-                "geonameId": "3572887"
+                "geonameId": "3572887",
+	    "flagURL":""
             },
             {
                 "countryCode": "BT",
@@ -625,7 +657,8 @@
                 "areaInSqKm": "47000.0",
                 "languages": "dz",
                 "isoAlpha3": "BTN",
-                "geonameId": "1252634"
+                "geonameId": "1252634",
+	    "flagURL":""
             },
             {
                 "countryCode": "BV",
@@ -644,7 +677,8 @@
                 "areaInSqKm": "49.0",
                 "languages": "",
                 "isoAlpha3": "BVT",
-                "geonameId": "3371123"
+                "geonameId": "3371123",
+	    "flagURL":""
             },
             {
                 "countryCode": "BW",
@@ -663,7 +697,8 @@
                 "areaInSqKm": "600370.0",
                 "languages": "en-BW,tn-BW",
                 "isoAlpha3": "BWA",
-                "geonameId": "933860"
+                "geonameId": "933860",
+	    "flagURL":""
             },
             {
                 "countryCode": "BY",
@@ -682,7 +717,8 @@
                 "areaInSqKm": "207600.0",
                 "languages": "be,ru",
                 "isoAlpha3": "BLR",
-                "geonameId": "630336"
+                "geonameId": "630336",
+	    "flagURL":""
             },
             {
                 "countryCode": "BZ",
@@ -701,7 +737,8 @@
                 "areaInSqKm": "22966.0",
                 "languages": "en-BZ,es",
                 "isoAlpha3": "BLZ",
-                "geonameId": "3582678"
+                "geonameId": "3582678",
+	    "flagURL":""
             },
             {
                 "countryCode": "CA",
@@ -720,7 +757,8 @@
                 "areaInSqKm": "9984670.0",
                 "languages": "en-CA,fr-CA,iu",
                 "isoAlpha3": "CAN",
-                "geonameId": "6251999"
+                "geonameId": "6251999",
+	    "flagURL":""
             },
             {
                 "countryCode": "CC",
@@ -739,7 +777,8 @@
                 "areaInSqKm": "14.0",
                 "languages": "ms-CC,en",
                 "isoAlpha3": "CCK",
-                "geonameId": "1547376"
+                "geonameId": "1547376",
+	    "flagURL":""
             },
             {
                 "countryCode": "CD",
@@ -758,7 +797,8 @@
                 "areaInSqKm": "2345410.0",
                 "languages": "fr-CD,ln,kg",
                 "isoAlpha3": "COD",
-                "geonameId": "203312"
+                "geonameId": "203312",
+	    "flagURL":""
             },
             {
                 "countryCode": "CF",
@@ -777,7 +817,8 @@
                 "areaInSqKm": "622984.0",
                 "languages": "fr-CF,sg,ln,kg",
                 "isoAlpha3": "CAF",
-                "geonameId": "239880"
+                "geonameId": "239880",
+	    "flagURL":""
             },
             {
                 "countryCode": "CG",
@@ -796,7 +837,8 @@
                 "areaInSqKm": "342000.0",
                 "languages": "fr-CG,kg,ln-CG",
                 "isoAlpha3": "COG",
-                "geonameId": "2260494"
+                "geonameId": "2260494",
+	    "flagURL":""
             },
             {
                 "countryCode": "CH",
@@ -815,7 +857,8 @@
                 "areaInSqKm": "41290.0",
                 "languages": "de-CH,fr-CH,it-CH,rm",
                 "isoAlpha3": "CHE",
-                "geonameId": "2658434"
+                "geonameId": "2658434",
+	    "flagURL":""
             },
             {
                 "countryCode": "CI",
@@ -834,7 +877,8 @@
                 "areaInSqKm": "322460.0",
                 "languages": "fr-CI",
                 "isoAlpha3": "CIV",
-                "geonameId": "2287781"
+                "geonameId": "2287781",
+	    "flagURL":""
             },
             {
                 "countryCode": "CK",
@@ -853,7 +897,8 @@
                 "areaInSqKm": "240.0",
                 "languages": "en-CK,mi",
                 "isoAlpha3": "COK",
-                "geonameId": "1899402"
+                "geonameId": "1899402",
+	    "flagURL":""
             },
             {
                 "countryCode": "CL",
@@ -872,7 +917,8 @@
                 "areaInSqKm": "756950.0",
                 "languages": "es-CL",
                 "isoAlpha3": "CHL",
-                "geonameId": "3895114"
+                "geonameId": "3895114",
+	    "flagURL":""
             },
             {
                 "countryCode": "CM",
@@ -891,7 +937,8 @@
                 "areaInSqKm": "475440.0",
                 "languages": "en-CM,fr-CM",
                 "isoAlpha3": "CMR",
-                "geonameId": "2233387"
+                "geonameId": "2233387",
+	    "flagURL":""
             },
             {
                 "countryCode": "CN",
@@ -911,7 +958,7 @@
                 "languages": "zh-CN,yue,wuu,dta,ug,za",
                 "isoAlpha3": "CHN",
                 "geonameId": "1814991",
-                "flagURL":"//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+"flagURL":"//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
             },
             {
                 "countryCode": "CO",
@@ -930,7 +977,8 @@
                 "areaInSqKm": "1138910.0",
                 "languages": "es-CO",
                 "isoAlpha3": "COL",
-                "geonameId": "3686110"
+                "geonameId": "3686110",
+	    "flagURL":""
             },
             {
                 "countryCode": "CR",
@@ -949,7 +997,8 @@
                 "areaInSqKm": "51100.0",
                 "languages": "es-CR,en",
                 "isoAlpha3": "CRI",
-                "geonameId": "3624060"
+                "geonameId": "3624060",
+	    "flagURL":""
             },
             {
                 "countryCode": "CU",
@@ -968,7 +1017,8 @@
                 "areaInSqKm": "110860.0",
                 "languages": "es-CU",
                 "isoAlpha3": "CUB",
-                "geonameId": "3562981"
+                "geonameId": "3562981",
+	    "flagURL":""
             },
             {
                 "countryCode": "CV",
@@ -987,7 +1037,8 @@
                 "areaInSqKm": "4033.0",
                 "languages": "pt-CV",
                 "isoAlpha3": "CPV",
-                "geonameId": "3374766"
+                "geonameId": "3374766",
+	    "flagURL":""
             },
             {
                 "countryCode": "CW",
@@ -1006,7 +1057,8 @@
                 "areaInSqKm": "444.0",
                 "languages": "nl,pap",
                 "isoAlpha3": "CUW",
-                "geonameId": "7626836"
+                "geonameId": "7626836",
+	    "flagURL":""
             },
             {
                 "countryCode": "CX",
@@ -1025,7 +1077,8 @@
                 "areaInSqKm": "135.0",
                 "languages": "en,zh,ms-CC",
                 "isoAlpha3": "CXR",
-                "geonameId": "2078138"
+                "geonameId": "2078138",
+	    "flagURL":""
             },
             {
                 "countryCode": "CY",
@@ -1044,7 +1097,8 @@
                 "areaInSqKm": "9250.0",
                 "languages": "el-CY,tr-CY,en",
                 "isoAlpha3": "CYP",
-                "geonameId": "146669"
+                "geonameId": "146669",
+	    "flagURL":""
             },
             {
                 "countryCode": "CZ",
@@ -1063,7 +1117,8 @@
                 "areaInSqKm": "78866.0",
                 "languages": "cs,sk",
                 "isoAlpha3": "CZE",
-                "geonameId": "3077311"
+                "geonameId": "3077311",
+	    "flagURL":""
             },
             {
                 "countryCode": "DE",
@@ -1082,7 +1137,8 @@
                 "areaInSqKm": "357021.0",
                 "languages": "de",
                 "isoAlpha3": "DEU",
-                "geonameId": "2921044"
+                "geonameId": "2921044",
+	    "flagURL":""
             },
             {
                 "countryCode": "DJ",
@@ -1101,7 +1157,8 @@
                 "areaInSqKm": "23000.0",
                 "languages": "fr-DJ,ar,so-DJ,aa",
                 "isoAlpha3": "DJI",
-                "geonameId": "223816"
+                "geonameId": "223816",
+	    "flagURL":""
             },
             {
                 "countryCode": "DK",
@@ -1120,7 +1177,8 @@
                 "areaInSqKm": "43094.0",
                 "languages": "da-DK,en,fo,de-DK",
                 "isoAlpha3": "DNK",
-                "geonameId": "2623032"
+                "geonameId": "2623032",
+	    "flagURL":""
             },
             {
                 "countryCode": "DM",
@@ -1139,7 +1197,8 @@
                 "areaInSqKm": "754.0",
                 "languages": "en-DM",
                 "isoAlpha3": "DMA",
-                "geonameId": "3575830"
+                "geonameId": "3575830",
+	    "flagURL":""
             },
             {
                 "countryCode": "DO",
@@ -1158,7 +1217,8 @@
                 "areaInSqKm": "48730.0",
                 "languages": "es-DO",
                 "isoAlpha3": "DOM",
-                "geonameId": "3508796"
+                "geonameId": "3508796",
+	    "flagURL":""
             },
             {
                 "countryCode": "DZ",
@@ -1177,7 +1237,8 @@
                 "areaInSqKm": "2381740.0",
                 "languages": "ar-ع-DZ",
                 "isoAlpha3": "DZA",
-                "geonameId": "2589581"
+                "geonameId": "2589581",
+	    "flagURL":""
             },
             {
                 "countryCode": "EC",
@@ -1196,7 +1257,8 @@
                 "areaInSqKm": "283560.0",
                 "languages": "es-EC",
                 "isoAlpha3": "ECU",
-                "geonameId": "3658394"
+                "geonameId": "3658394",
+	    "flagURL":""
             },
             {
                 "countryCode": "EE",
@@ -1215,7 +1277,8 @@
                 "areaInSqKm": "45226.0",
                 "languages": "et,ru",
                 "isoAlpha3": "EST",
-                "geonameId": "453733"
+                "geonameId": "453733",
+	    "flagURL":""
             },
             {
                 "countryCode": "EG",
@@ -1234,7 +1297,8 @@
                 "areaInSqKm": "1001450.0",
                 "languages": "ar-ع-EG,en,fr",
                 "isoAlpha3": "EGY",
-                "geonameId": "357994"
+                "geonameId": "357994",
+	    "flagURL":""
             },
             {
                 "countryCode": "EH",
@@ -1253,7 +1317,8 @@
                 "areaInSqKm": "266000.0",
                 "languages": "ar,mey",
                 "isoAlpha3": "ESH",
-                "geonameId": "2461445"
+                "geonameId": "2461445",
+	    "flagURL":""
             },
             {
                 "countryCode": "ER",
@@ -1272,7 +1337,8 @@
                 "areaInSqKm": "121320.0",
                 "languages": "aa-ER,ar,tig,kun,ti-ER",
                 "isoAlpha3": "ERI",
-                "geonameId": "338010"
+                "geonameId": "338010",
+	    "flagURL":""
             },
             {
                 "countryCode": "ES",
@@ -1291,7 +1357,8 @@
                 "areaInSqKm": "504782.0",
                 "languages": "es-ES,ca,gl,eu,oc",
                 "isoAlpha3": "ESP",
-                "geonameId": "2510769"
+                "geonameId": "2510769",
+	    "flagURL":""
             },
             {
                 "countryCode": "ET",
@@ -1310,7 +1377,8 @@
                 "areaInSqKm": "1127127.0",
                 "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
                 "isoAlpha3": "ETH",
-                "geonameId": "337996"
+                "geonameId": "337996",
+	    "flagURL":""
             },
             {
                 "countryCode": "FI",
@@ -1329,7 +1397,8 @@
                 "areaInSqKm": "337030.0",
                 "languages": "fi-FI,sv-FI,smn",
                 "isoAlpha3": "FIN",
-                "geonameId": "660013"
+                "geonameId": "660013",
+	    "flagURL":""
             },
             {
                 "countryCode": "FJ",
@@ -1348,7 +1417,8 @@
                 "areaInSqKm": "18270.0",
                 "languages": "en-FJ,fj",
                 "isoAlpha3": "FJI",
-                "geonameId": "2205218"
+                "geonameId": "2205218",
+	    "flagURL":""
             },
             {
                 "countryCode": "FK",
@@ -1367,7 +1437,8 @@
                 "areaInSqKm": "12173.0",
                 "languages": "en-FK",
                 "isoAlpha3": "FLK",
-                "geonameId": "3474414"
+                "geonameId": "3474414",
+	    "flagURL":""
             },
             {
                 "countryCode": "FM",
@@ -1386,7 +1457,8 @@
                 "areaInSqKm": "702.0",
                 "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
                 "isoAlpha3": "FSM",
-                "geonameId": "2081918"
+                "geonameId": "2081918",
+	    "flagURL":""
             },
             {
                 "countryCode": "FO",
@@ -1405,7 +1477,8 @@
                 "areaInSqKm": "1399.0",
                 "languages": "fo,da-FO",
                 "isoAlpha3": "FRO",
-                "geonameId": "2622320"
+                "geonameId": "2622320",
+	    "flagURL":""
             },
             {
                 "countryCode": "FR",
@@ -1424,7 +1497,8 @@
                 "areaInSqKm": "547030.0",
                 "languages": "fr-FR,frp,br,co,ca,eu,oc",
                 "isoAlpha3": "FRA",
-                "geonameId": "3017382"
+                "geonameId": "3017382",
+	    "flagURL":""
             },
             {
                 "countryCode": "GA",
@@ -1443,7 +1517,8 @@
                 "areaInSqKm": "267667.0",
                 "languages": "fr-GA",
                 "isoAlpha3": "GAB",
-                "geonameId": "2400553"
+                "geonameId": "2400553",
+	    "flagURL":""
             },
             {
                 "countryCode": "GB",
@@ -1462,7 +1537,8 @@
                 "areaInSqKm": "244820.0",
                 "languages": "en-GB,cy-GB,gd",
                 "isoAlpha3": "GBR",
-                "geonameId": "2635167"
+                "geonameId": "2635167",
+	    "flagURL":""
             },
             {
                 "countryCode": "GD",
@@ -1481,7 +1557,8 @@
                 "areaInSqKm": "344.0",
                 "languages": "en-GD",
                 "isoAlpha3": "GRD",
-                "geonameId": "3580239"
+                "geonameId": "3580239",
+	    "flagURL":""
             },
             {
                 "countryCode": "GE",
@@ -1500,7 +1577,8 @@
                 "areaInSqKm": "69700.0",
                 "languages": "ka,ru,hy,az",
                 "isoAlpha3": "GEO",
-                "geonameId": "614540"
+                "geonameId": "614540",
+	    "flagURL":""
             },
             {
                 "countryCode": "GF",
@@ -1519,7 +1597,8 @@
                 "areaInSqKm": "91000.0",
                 "languages": "fr-GF",
                 "isoAlpha3": "GUF",
-                "geonameId": "3381670"
+                "geonameId": "3381670",
+	    "flagURL":""
             },
             {
                 "countryCode": "GG",
@@ -1538,7 +1617,8 @@
                 "areaInSqKm": "78.0",
                 "languages": "en,fr",
                 "isoAlpha3": "GGY",
-                "geonameId": "3042362"
+                "geonameId": "3042362",
+	    "flagURL":""
             },
             {
                 "countryCode": "GH",
@@ -1557,7 +1637,8 @@
                 "areaInSqKm": "239460.0",
                 "languages": "en-GH,ak,ee,tw",
                 "isoAlpha3": "GHA",
-                "geonameId": "2300660"
+                "geonameId": "2300660",
+	    "flagURL":""
             },
             {
                 "countryCode": "GI",
@@ -1576,7 +1657,8 @@
                 "areaInSqKm": "6.5",
                 "languages": "en-GI,es,it,pt",
                 "isoAlpha3": "GIB",
-                "geonameId": "2411586"
+                "geonameId": "2411586",
+	    "flagURL":""
             },
             {
                 "countryCode": "GL",
@@ -1595,7 +1677,8 @@
                 "areaInSqKm": "2166086.0",
                 "languages": "kl,da-GL,en",
                 "isoAlpha3": "GRL",
-                "geonameId": "3425505"
+                "geonameId": "3425505",
+	    "flagURL":""
             },
             {
                 "countryCode": "GM",
@@ -1614,7 +1697,8 @@
                 "areaInSqKm": "11300.0",
                 "languages": "en-GM,mnk,wof,wo,ff",
                 "isoAlpha3": "GMB",
-                "geonameId": "2413451"
+                "geonameId": "2413451",
+	    "flagURL":""
             },
             {
                 "countryCode": "GN",
@@ -1633,7 +1717,8 @@
                 "areaInSqKm": "245857.0",
                 "languages": "fr-GN",
                 "isoAlpha3": "GIN",
-                "geonameId": "2420477"
+                "geonameId": "2420477",
+	    "flagURL":""
             },
             {
                 "countryCode": "GP",
@@ -1652,7 +1737,8 @@
                 "areaInSqKm": "1780.0",
                 "languages": "fr-GP",
                 "isoAlpha3": "GLP",
-                "geonameId": "3579143"
+                "geonameId": "3579143",
+	    "flagURL":""
             },
             {
                 "countryCode": "GQ",
@@ -1671,7 +1757,8 @@
                 "areaInSqKm": "28051.0",
                 "languages": "es-GQ,fr",
                 "isoAlpha3": "GNQ",
-                "geonameId": "2309096"
+                "geonameId": "2309096",
+	    "flagURL":""
             },
             {
                 "countryCode": "GR",
@@ -1690,7 +1777,8 @@
                 "areaInSqKm": "131940.0",
                 "languages": "el-GR,en,fr",
                 "isoAlpha3": "GRC",
-                "geonameId": "390903"
+                "geonameId": "390903",
+	    "flagURL":""
             },
             {
                 "countryCode": "GS",
@@ -1709,7 +1797,8 @@
                 "areaInSqKm": "3903.0",
                 "languages": "en",
                 "isoAlpha3": "SGS",
-                "geonameId": "3474415"
+                "geonameId": "3474415",
+	    "flagURL":""
             },
             {
                 "countryCode": "GT",
@@ -1728,7 +1817,8 @@
                 "areaInSqKm": "108890.0",
                 "languages": "es-GT",
                 "isoAlpha3": "GTM",
-                "geonameId": "3595528"
+                "geonameId": "3595528",
+	    "flagURL":""
             },
             {
                 "countryCode": "GU",
@@ -1747,7 +1837,8 @@
                 "areaInSqKm": "549.0",
                 "languages": "en-GU,ch-GU",
                 "isoAlpha3": "GUM",
-                "geonameId": "4043988"
+                "geonameId": "4043988",
+	    "flagURL":""
             },
             {
                 "countryCode": "GW",
@@ -1766,7 +1857,8 @@
                 "areaInSqKm": "36120.0",
                 "languages": "pt-GW,pov",
                 "isoAlpha3": "GNB",
-                "geonameId": "2372248"
+                "geonameId": "2372248",
+	    "flagURL":""
             },
             {
                 "countryCode": "GY",
@@ -1785,7 +1877,8 @@
                 "areaInSqKm": "214970.0",
                 "languages": "en-GY",
                 "isoAlpha3": "GUY",
-                "geonameId": "3378535"
+                "geonameId": "3378535",
+	    "flagURL":""
             },
             {
                 "countryCode": "HK",
@@ -1804,7 +1897,8 @@
                 "areaInSqKm": "1092.0",
                 "languages": "zh-HK,yue,zh,en",
                 "isoAlpha3": "HKG",
-                "geonameId": "1819730"
+                "geonameId": "1819730",
+	    "flagURL":""
             },
             {
                 "countryCode": "HM",
@@ -1823,7 +1917,8 @@
                 "areaInSqKm": "412.0",
                 "languages": "",
                 "isoAlpha3": "HMD",
-                "geonameId": "1547314"
+                "geonameId": "1547314",
+	    "flagURL":""
             },
             {
                 "countryCode": "HN",
@@ -1842,7 +1937,8 @@
                 "areaInSqKm": "112090.0",
                 "languages": "es-HN",
                 "isoAlpha3": "HND",
-                "geonameId": "3608932"
+                "geonameId": "3608932",
+	    "flagURL":""
             },
             {
                 "countryCode": "HR",
@@ -1861,7 +1957,8 @@
                 "areaInSqKm": "56542.0",
                 "languages": "hr-HR,sr",
                 "isoAlpha3": "HRV",
-                "geonameId": "3202326"
+                "geonameId": "3202326",
+	    "flagURL":""
             },
             {
                 "countryCode": "HT",
@@ -1880,7 +1977,8 @@
                 "areaInSqKm": "27750.0",
                 "languages": "ht,fr-HT",
                 "isoAlpha3": "HTI",
-                "geonameId": "3723988"
+                "geonameId": "3723988",
+	    "flagURL":""
             },
             {
                 "countryCode": "HU",
@@ -1899,7 +1997,8 @@
                 "areaInSqKm": "93030.0",
                 "languages": "hu-HU",
                 "isoAlpha3": "HUN",
-                "geonameId": "719819"
+                "geonameId": "719819",
+	    "flagURL":""
             },
             {
                 "countryCode": "ID",
@@ -1918,7 +2017,8 @@
                 "areaInSqKm": "1919440.0",
                 "languages": "id,en,nl,jv",
                 "isoAlpha3": "IDN",
-                "geonameId": "1643084"
+                "geonameId": "1643084",
+	    "flagURL":""
             },
             {
                 "countryCode": "IE",
@@ -1937,7 +2037,8 @@
                 "areaInSqKm": "70280.0",
                 "languages": "en-IE,ga-IE",
                 "isoAlpha3": "IRL",
-                "geonameId": "2963597"
+                "geonameId": "2963597",
+	    "flagURL":""
             },
             {
                 "countryCode": "IL",
@@ -1956,7 +2057,8 @@
                 "areaInSqKm": "20770.0",
                 "languages": "he,ar-ع-IL,en-IL,",
                 "isoAlpha3": "ISR",
-                "geonameId": "294640"
+                "geonameId": "294640",
+	    "flagURL":""
             },
             {
                 "countryCode": "IM",
@@ -1975,7 +2077,8 @@
                 "areaInSqKm": "572.0",
                 "languages": "en,gv",
                 "isoAlpha3": "IMN",
-                "geonameId": "3042225"
+                "geonameId": "3042225",
+	    "flagURL":""
             },
             {
                 "countryCode": "IN",
@@ -1992,9 +2095,10 @@
                 "continentName": "Asia",
                 "continent": "AS",
                 "areaInSqKm": "3287590.0",
-                "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+                "Languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
                 "isoAlpha3": "IND",
-                "geonameId": "1269750"
+                "geonameId": "1269750",
+	    "flagURL":""
             },
             {
                 "countryCode": "IO",
@@ -2013,7 +2117,8 @@
                 "areaInSqKm": "60.0",
                 "languages": "en-IO",
                 "isoAlpha3": "IOT",
-                "geonameId": "1282588"
+                "geonameId": "1282588",
+	    "flagURL":""
             },
             {
                 "countryCode": "IQ",
@@ -2032,7 +2137,8 @@
                 "areaInSqKm": "437072.0",
                 "languages": "ar-ع-IQ,ku,hy",
                 "isoAlpha3": "IRQ",
-                "geonameId": "99237"
+                "geonameId": "99237",
+	    "flagURL":""
             },
             {
                 "countryCode": "IR",
@@ -2051,7 +2157,8 @@
                 "areaInSqKm": "1648000.0",
                 "languages": "fa-IR,ku",
                 "isoAlpha3": "IRN",
-                "geonameId": "130758"
+                "geonameId": "130758",
+	    "flagURL":""
             },
             {
                 "countryCode": "IS",
@@ -2070,7 +2177,8 @@
                 "areaInSqKm": "103000.0",
                 "languages": "is,en,de,da,sv,no",
                 "isoAlpha3": "ISL",
-                "geonameId": "2629691"
+                "geonameId": "2629691",
+	    "flagURL":""
             },
             {
                 "countryCode": "IT",
@@ -2089,7 +2197,8 @@
                 "areaInSqKm": "301230.0",
                 "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
                 "isoAlpha3": "ITA",
-                "geonameId": "3175395"
+                "geonameId": "3175395",
+	    "flagURL":""
             },
             {
                 "countryCode": "JE",
@@ -2108,7 +2217,8 @@
                 "areaInSqKm": "116.0",
                 "languages": "en,pt",
                 "isoAlpha3": "JEY",
-                "geonameId": "3042142"
+                "geonameId": "3042142",
+	    "flagURL":""
             },
             {
                 "countryCode": "JM",
@@ -2127,7 +2237,8 @@
                 "areaInSqKm": "10991.0",
                 "languages": "en-JM",
                 "isoAlpha3": "JAM",
-                "geonameId": "3489940"
+                "geonameId": "3489940",
+	    "flagURL":""
             },
             {
                 "countryCode": "JO",
@@ -2146,7 +2257,8 @@
                 "areaInSqKm": "92300.0",
                 "languages": "ar-ع-JO,en",
                 "isoAlpha3": "JOR",
-                "geonameId": "248816"
+                "geonameId": "248816",
+	    "flagURL":""
             },
             {
                 "countryCode": "JP",
@@ -2165,7 +2277,8 @@
                 "areaInSqKm": "377835.0",
                 "languages": "ja",
                 "isoAlpha3": "JPN",
-                "geonameId": "1861060"
+                "geonameId": "1861060",
+	    "flagURL":""
             },
             {
                 "countryCode": "KE",
@@ -2184,7 +2297,8 @@
                 "areaInSqKm": "582650.0",
                 "languages": "en-KE,sw-KE",
                 "isoAlpha3": "KEN",
-                "geonameId": "192950"
+                "geonameId": "192950",
+	    "flagURL":""
             },
             {
                 "countryCode": "KG",
@@ -2203,7 +2317,8 @@
                 "areaInSqKm": "198500.0",
                 "languages": "ky,uz,ru",
                 "isoAlpha3": "KGZ",
-                "geonameId": "1527747"
+                "geonameId": "1527747",
+	    "flagURL":""
             },
             {
                 "countryCode": "KH",
@@ -2222,7 +2337,8 @@
                 "areaInSqKm": "181040.0",
                 "languages": "km,fr,en",
                 "isoAlpha3": "KHM",
-                "geonameId": "1831722"
+                "geonameId": "1831722",
+	    "flagURL":""
             },
             {
                 "countryCode": "KI",
@@ -2241,7 +2357,8 @@
                 "areaInSqKm": "811.0",
                 "languages": "en-KI,gil",
                 "isoAlpha3": "KIR",
-                "geonameId": "4030945"
+                "geonameId": "4030945",
+	    "flagURL":""
             },
             {
                 "countryCode": "KM",
@@ -2260,7 +2377,8 @@
                 "areaInSqKm": "2170.0",
                 "languages": "ar,fr-KM",
                 "isoAlpha3": "COM",
-                "geonameId": "921929"
+                "geonameId": "921929",
+	    "flagURL":""
             },
             {
                 "countryCode": "KN",
@@ -2279,7 +2397,8 @@
                 "areaInSqKm": "261.0",
                 "languages": "en-KN",
                 "isoAlpha3": "KNA",
-                "geonameId": "3575174"
+                "geonameId": "3575174",
+	    "flagURL":""
             },
             {
                 "countryCode": "KP",
@@ -2298,7 +2417,8 @@
                 "areaInSqKm": "120540.0",
                 "languages": "ko-KP",
                 "isoAlpha3": "PRK",
-                "geonameId": "1873107"
+                "geonameId": "1873107",
+	    "flagURL":""
             },
             {
                 "countryCode": "KR",
@@ -2317,7 +2437,8 @@
                 "areaInSqKm": "98480.0",
                 "languages": "ko-KR,en",
                 "isoAlpha3": "KOR",
-                "geonameId": "1835841"
+                "geonameId": "1835841",
+	    "flagURL":""
             },
             {
                 "countryCode": "KW",
@@ -2336,7 +2457,8 @@
                 "areaInSqKm": "17820.0",
                 "languages": "ar-ع-KW,en",
                 "isoAlpha3": "KWT",
-                "geonameId": "285570"
+                "geonameId": "285570",
+	    "flagURL":""
             },
             {
                 "countryCode": "KY",
@@ -2355,7 +2477,8 @@
                 "areaInSqKm": "262.0",
                 "languages": "en-KY",
                 "isoAlpha3": "CYM",
-                "geonameId": "3580718"
+                "geonameId": "3580718",
+	    "flagURL":""
             },
             {
                 "countryCode": "KZ",
@@ -2374,7 +2497,8 @@
                 "areaInSqKm": "2717300.0",
                 "languages": "kk,ru",
                 "isoAlpha3": "KAZ",
-                "geonameId": "1522867"
+                "geonameId": "1522867",
+	    "flagURL":""
             },
             {
                 "countryCode": "LA",
@@ -2393,7 +2517,8 @@
                 "areaInSqKm": "236800.0",
                 "languages": "lo,fr,en",
                 "isoAlpha3": "LAO",
-                "geonameId": "1655842"
+                "geonameId": "1655842",
+	    "flagURL":""
             },
             {
                 "countryCode": "LB",
@@ -2412,7 +2537,8 @@
                 "areaInSqKm": "10400.0",
                 "languages": "ar-ع-LB,fr-LB,en,hy",
                 "isoAlpha3": "LBN",
-                "geonameId": "272103"
+                "geonameId": "272103",
+	    "flagURL":""
             },
             {
                 "countryCode": "LC",
@@ -2431,7 +2557,8 @@
                 "areaInSqKm": "616.0",
                 "languages": "en-LC",
                 "isoAlpha3": "LCA",
-                "geonameId": "3576468"
+                "geonameId": "3576468",
+	    "flagURL":""
             },
             {
                 "countryCode": "LI",
@@ -2450,7 +2577,8 @@
                 "areaInSqKm": "160.0",
                 "languages": "de-LI",
                 "isoAlpha3": "LIE",
-                "geonameId": "3042058"
+                "geonameId": "3042058",
+	    "flagURL":""
             },
             {
                 "countryCode": "LK",
@@ -2469,7 +2597,8 @@
                 "areaInSqKm": "65610.0",
                 "languages": "si,ta,en",
                 "isoAlpha3": "LKA",
-                "geonameId": "1227603"
+                "geonameId": "1227603",
+	    "flagURL":""
             },
             {
                 "countryCode": "LR",
@@ -2488,7 +2617,8 @@
                 "areaInSqKm": "111370.0",
                 "languages": "en-LR",
                 "isoAlpha3": "LBR",
-                "geonameId": "2275384"
+                "geonameId": "2275384",
+	    "flagURL":""
             },
             {
                 "countryCode": "LS",
@@ -2507,7 +2637,8 @@
                 "areaInSqKm": "30355.0",
                 "languages": "en-LS,st,zu,xh",
                 "isoAlpha3": "LSO",
-                "geonameId": "932692"
+                "geonameId": "932692",
+	    "flagURL":""
             },
             {
                 "countryCode": "LT",
@@ -2526,7 +2657,8 @@
                 "areaInSqKm": "65200.0",
                 "languages": "lt,ru,pl",
                 "isoAlpha3": "LTU",
-                "geonameId": "597427"
+                "geonameId": "597427",
+	    "flagURL":""
             },
             {
                 "countryCode": "LU",
@@ -2545,7 +2677,8 @@
                 "areaInSqKm": "2586.0",
                 "languages": "lb,de-LU,fr-LU",
                 "isoAlpha3": "LUX",
-                "geonameId": "2960313"
+                "geonameId": "2960313",
+	    "flagURL":""
             },
             {
                 "countryCode": "LV",
@@ -2564,7 +2697,8 @@
                 "areaInSqKm": "64589.0",
                 "languages": "lv,ru,lt",
                 "isoAlpha3": "LVA",
-                "geonameId": "458258"
+                "geonameId": "458258",
+	    "flagURL":""
             },
             {
                 "countryCode": "LY",
@@ -2583,7 +2717,8 @@
                 "areaInSqKm": "1759540.0",
                 "languages": "ar-ع-LY,it,en",
                 "isoAlpha3": "LBY",
-                "geonameId": "2215636"
+                "geonameId": "2215636",
+	    "flagURL":""
             },
             {
                 "countryCode": "MA",
@@ -2602,7 +2737,8 @@
                 "areaInSqKm": "446550.0",
                 "languages": "ar-ع-MA,fr",
                 "isoAlpha3": "MAR",
-                "geonameId": "2542007"
+                "geonameId": "2542007",
+	    "flagURL":""
             },
             {
                 "countryCode": "MC",
@@ -2621,7 +2757,8 @@
                 "areaInSqKm": "1.95",
                 "languages": "fr-MC,en,it",
                 "isoAlpha3": "MCO",
-                "geonameId": "2993457"
+                "geonameId": "2993457",
+	    "flagURL":""
             },
             {
                 "countryCode": "MD",
@@ -2640,7 +2777,8 @@
                 "areaInSqKm": "33843.0",
                 "languages": "ro,ru,gag,tr",
                 "isoAlpha3": "MDA",
-                "geonameId": "617790"
+                "geonameId": "617790",
+	    "flagURL":""
             },
             {
                 "countryCode": "ME",
@@ -2659,7 +2797,8 @@
                 "areaInSqKm": "14026.0",
                 "languages": "sr,hu,bs,sq,hr,rom",
                 "isoAlpha3": "MNE",
-                "geonameId": "3194884"
+                "geonameId": "3194884",
+	    "flagURL":""
             },
             {
                 "countryCode": "MF",
@@ -2678,7 +2817,8 @@
                 "areaInSqKm": "53.0",
                 "languages": "fr",
                 "isoAlpha3": "MAF",
-                "geonameId": "3578421"
+                "geonameId": "3578421",
+	    "flagURL":""
             },
             {
                 "countryCode": "MG",
@@ -2697,7 +2837,8 @@
                 "areaInSqKm": "587040.0",
                 "languages": "fr-MG,mg",
                 "isoAlpha3": "MDG",
-                "geonameId": "1062947"
+                "geonameId": "1062947",
+	    "flagURL":""
             },
             {
                 "countryCode": "MH",
@@ -2716,7 +2857,8 @@
                 "areaInSqKm": "181.3",
                 "languages": "mh,en-MH",
                 "isoAlpha3": "MHL",
-                "geonameId": "2080185"
+                "geonameId": "2080185",
+	    "flagURL":""
             },
             {
                 "countryCode": "MK",
@@ -2735,7 +2877,8 @@
                 "areaInSqKm": "25333.0",
                 "languages": "mk,sq,tr,rmm,sr",
                 "isoAlpha3": "MKD",
-                "geonameId": "718075"
+                "geonameId": "718075",
+	    "flagURL":""
             },
             {
                 "countryCode": "ML",
@@ -2754,7 +2897,8 @@
                 "areaInSqKm": "1240000.0",
                 "languages": "fr-ML,bm",
                 "isoAlpha3": "MLI",
-                "geonameId": "2453866"
+                "geonameId": "2453866",
+	    "flagURL":""
             },
             {
                 "countryCode": "MM",
@@ -2773,7 +2917,8 @@
                 "areaInSqKm": "678500.0",
                 "languages": "my",
                 "isoAlpha3": "MMR",
-                "geonameId": "1327865"
+                "geonameId": "1327865",
+	    "flagURL":""
             },
             {
                 "countryCode": "MN",
@@ -2792,7 +2937,8 @@
                 "areaInSqKm": "1565000.0",
                 "languages": "mn,ru",
                 "isoAlpha3": "MNG",
-                "geonameId": "2029969"
+                "geonameId": "2029969",
+	    "flagURL":""
             },
             {
                 "countryCode": "MO",
@@ -2811,7 +2957,8 @@
                 "areaInSqKm": "254.0",
                 "languages": "zh,zh-MO,pt",
                 "isoAlpha3": "MAC",
-                "geonameId": "1821275"
+                "geonameId": "1821275",
+	    "flagURL":""
             },
             {
                 "countryCode": "MP",
@@ -2830,7 +2977,8 @@
                 "areaInSqKm": "477.0",
                 "languages": "fil,tl,zh,ch-MP,en-MP",
                 "isoAlpha3": "MNP",
-                "geonameId": "4041468"
+                "geonameId": "4041468",
+	    "flagURL":""
             },
             {
                 "countryCode": "MQ",
@@ -2849,7 +2997,8 @@
                 "areaInSqKm": "1100.0",
                 "languages": "fr-MQ",
                 "isoAlpha3": "MTQ",
-                "geonameId": "3570311"
+                "geonameId": "3570311",
+	    "flagURL":""
             },
             {
                 "countryCode": "MR",
@@ -2868,7 +3017,8 @@
                 "areaInSqKm": "1030700.0",
                 "languages": "ar-ع-MR,fuc,snk,fr,mey,wo",
                 "isoAlpha3": "MRT",
-                "geonameId": "2378080"
+                "geonameId": "2378080",
+	    "flagURL":""
             },
             {
                 "countryCode": "MS",
@@ -2887,7 +3037,8 @@
                 "areaInSqKm": "102.0",
                 "languages": "en-MS",
                 "isoAlpha3": "MSR",
-                "geonameId": "3578097"
+                "geonameId": "3578097",
+	    "flagURL":""
             },
             {
                 "countryCode": "MT",
@@ -2906,7 +3057,8 @@
                 "areaInSqKm": "316.0",
                 "languages": "mt,en-MT",
                 "isoAlpha3": "MLT",
-                "geonameId": "2562770"
+                "geonameId": "2562770",
+	    "flagURL":""
             },
             {
                 "countryCode": "MU",
@@ -2925,7 +3077,8 @@
                 "areaInSqKm": "2040.0",
                 "languages": "en-MU,bho,fr",
                 "isoAlpha3": "MUS",
-                "geonameId": "934292"
+                "geonameId": "934292",
+	    "flagURL":""
             },
             {
                 "countryCode": "MV",
@@ -2944,7 +3097,8 @@
                 "areaInSqKm": "300.0",
                 "languages": "dv,en",
                 "isoAlpha3": "MDV",
-                "geonameId": "1282028"
+                "geonameId": "1282028",
+	    "flagURL":""
             },
             {
                 "countryCode": "MW",
@@ -2963,7 +3117,8 @@
                 "areaInSqKm": "118480.0",
                 "languages": "ny,yao,tum,swk",
                 "isoAlpha3": "MWI",
-                "geonameId": "927384"
+                "geonameId": "927384",
+	    "flagURL":""
             },
             {
                 "countryCode": "MX",
@@ -2982,7 +3137,8 @@
                 "areaInSqKm": "1972550.0",
                 "languages": "es-MX",
                 "isoAlpha3": "MEX",
-                "geonameId": "3996063"
+                "geonameId": "3996063",
+	    "flagURL":""
             },
             {
                 "countryCode": "MY",
@@ -3001,7 +3157,8 @@
                 "areaInSqKm": "329750.0",
                 "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
                 "isoAlpha3": "MYS",
-                "geonameId": "1733045"
+                "geonameId": "1733045",
+	    "flagURL":""
             },
             {
                 "countryCode": "MZ",
@@ -3020,7 +3177,8 @@
                 "areaInSqKm": "801590.0",
                 "languages": "pt-MZ,vmw",
                 "isoAlpha3": "MOZ",
-                "geonameId": "1036973"
+                "geonameId": "1036973",
+	    "flagURL":""
             },
             {
                 "countryCode": "NA",
@@ -3039,7 +3197,8 @@
                 "areaInSqKm": "825418.0",
                 "languages": "en-NA,af,de,hz,naq",
                 "isoAlpha3": "NAM",
-                "geonameId": "3355338"
+                "geonameId": "3355338",
+	    "flagURL":""
             },
             {
                 "countryCode": "NC",
@@ -3058,7 +3217,8 @@
                 "areaInSqKm": "19060.0",
                 "languages": "fr-NC",
                 "isoAlpha3": "NCL",
-                "geonameId": "2139685"
+                "geonameId": "2139685",
+	    "flagURL":""
             },
             {
                 "countryCode": "NE",
@@ -3077,7 +3237,8 @@
                 "areaInSqKm": "1267000.0",
                 "languages": "fr-NE,ha,kr,dje",
                 "isoAlpha3": "NER",
-                "geonameId": "2440476"
+                "geonameId": "2440476",
+	    "flagURL":""
             },
             {
                 "countryCode": "NF",
@@ -3096,7 +3257,8 @@
                 "areaInSqKm": "34.6",
                 "languages": "en-NF",
                 "isoAlpha3": "NFK",
-                "geonameId": "2155115"
+                "geonameId": "2155115",
+	    "flagURL":""
             },
             {
                 "countryCode": "NG",
@@ -3115,7 +3277,8 @@
                 "areaInSqKm": "923768.0",
                 "languages": "en-NG,ha,yo,ig,ff",
                 "isoAlpha3": "NGA",
-                "geonameId": "2328926"
+                "geonameId": "2328926",
+	    "flagURL":""
             },
             {
                 "countryCode": "NI",
@@ -3134,7 +3297,8 @@
                 "areaInSqKm": "129494.0",
                 "languages": "es-NI,en",
                 "isoAlpha3": "NIC",
-                "geonameId": "3617476"
+                "geonameId": "3617476",
+	    "flagURL":""
             },
             {
                 "countryCode": "NL",
@@ -3153,7 +3317,8 @@
                 "areaInSqKm": "41526.0",
                 "languages": "nl-NL,fy-NL",
                 "isoAlpha3": "NLD",
-                "geonameId": "2750405"
+                "geonameId": "2750405",
+	    "flagURL":""
             },
             {
                 "countryCode": "NO",
@@ -3172,7 +3337,8 @@
                 "areaInSqKm": "324220.0",
                 "languages": "no,nb,nn,se,fi",
                 "isoAlpha3": "NOR",
-                "geonameId": "3144096"
+                "geonameId": "3144096",
+	    "flagURL":""
             },
             {
                 "countryCode": "NP",
@@ -3191,7 +3357,8 @@
                 "areaInSqKm": "140800.0",
                 "languages": "ne,en",
                 "isoAlpha3": "NPL",
-                "geonameId": "1282988"
+                "geonameId": "1282988",
+	    "flagURL":""
             },
             {
                 "countryCode": "NR",
@@ -3210,7 +3377,8 @@
                 "areaInSqKm": "21.0",
                 "languages": "na,en-NR",
                 "isoAlpha3": "NRU",
-                "geonameId": "2110425"
+                "geonameId": "2110425",
+	    "flagURL":""
             },
             {
                 "countryCode": "NU",
@@ -3229,7 +3397,8 @@
                 "areaInSqKm": "260.0",
                 "languages": "niu,en-NU",
                 "isoAlpha3": "NIU",
-                "geonameId": "4036232"
+                "geonameId": "4036232",
+	    "flagURL":""
             },
             {
                 "countryCode": "NZ",
@@ -3248,7 +3417,8 @@
                 "areaInSqKm": "268680.0",
                 "languages": "en-NZ,mi",
                 "isoAlpha3": "NZL",
-                "geonameId": "2186224"
+                "geonameId": "2186224",
+	    "flagURL":""
             },
             {
                 "countryCode": "OM",
@@ -3267,7 +3437,8 @@
                 "areaInSqKm": "212460.0",
                 "languages": "ar-ع-OM,en,bal,ur",
                 "isoAlpha3": "OMN",
-                "geonameId": "286963"
+                "geonameId": "286963",
+	    "flagURL":""
             },
             {
                 "countryCode": "PA",
@@ -3286,7 +3457,8 @@
                 "areaInSqKm": "78200.0",
                 "languages": "es-PA,en",
                 "isoAlpha3": "PAN",
-                "geonameId": "3703430"
+                "geonameId": "3703430",
+	    "flagURL":""
             },
             {
                 "countryCode": "PE",
@@ -3305,7 +3477,8 @@
                 "areaInSqKm": "1285220.0",
                 "languages": "es-PE,qu,ay",
                 "isoAlpha3": "PER",
-                "geonameId": "3932488"
+                "geonameId": "3932488",
+	    "flagURL":""
             },
             {
                 "countryCode": "PF",
@@ -3324,7 +3497,8 @@
                 "areaInSqKm": "4167.0",
                 "languages": "fr-PF,ty",
                 "isoAlpha3": "PYF",
-                "geonameId": "4030656"
+                "geonameId": "4030656",
+	    "flagURL":""
             },
             {
                 "countryCode": "PG",
@@ -3343,7 +3517,8 @@
                 "areaInSqKm": "462840.0",
                 "languages": "en-PG,ho,meu,tpi",
                 "isoAlpha3": "PNG",
-                "geonameId": "2088628"
+                "geonameId": "2088628",
+	    "flagURL":""
             },
             {
                 "countryCode": "PH",
@@ -3362,7 +3537,8 @@
                 "areaInSqKm": "300000.0",
                 "languages": "tl,en-PH,fil",
                 "isoAlpha3": "PHL",
-                "geonameId": "1694008"
+                "geonameId": "1694008",
+	    "flagURL":""
             },
             {
                 "countryCode": "PK",
@@ -3381,7 +3557,8 @@
                 "areaInSqKm": "803940.0",
                 "languages": "ur-PK,en-PK,pa,sd,ps,brh",
                 "isoAlpha3": "PAK",
-                "geonameId": "1168579"
+                "geonameId": "1168579",
+	    "flagURL":""
             },
             {
                 "countryCode": "PL",
@@ -3400,7 +3577,8 @@
                 "areaInSqKm": "312685.0",
                 "languages": "pl",
                 "isoAlpha3": "POL",
-                "geonameId": "798544"
+                "geonameId": "798544",
+	    "flagURL":""
             },
             {
                 "countryCode": "PM",
@@ -3419,7 +3597,8 @@
                 "areaInSqKm": "242.0",
                 "languages": "fr-PM",
                 "isoAlpha3": "SPM",
-                "geonameId": "3424932"
+                "geonameId": "3424932",
+	    "flagURL":""
             },
             {
                 "countryCode": "PN",
@@ -3438,7 +3617,8 @@
                 "areaInSqKm": "47.0",
                 "languages": "en-PN",
                 "isoAlpha3": "PCN",
-                "geonameId": "4030699"
+                "geonameId": "4030699",
+	    "flagURL":""
             },
             {
                 "countryCode": "PR",
@@ -3457,7 +3637,8 @@
                 "areaInSqKm": "9104.0",
                 "languages": "en-PR,es-PR",
                 "isoAlpha3": "PRI",
-                "geonameId": "4566966"
+                "geonameId": "4566966",
+	    "flagURL":""
             },
             {
                 "countryCode": "PS",
@@ -3476,7 +3657,8 @@
                 "areaInSqKm": "5970.0",
                 "languages": "ar-ع-PS",
                 "isoAlpha3": "PSE",
-                "geonameId": "6254930"
+                "geonameId": "6254930",
+	    "flagURL":""
             },
             {
                 "countryCode": "PT",
@@ -3495,7 +3677,8 @@
                 "areaInSqKm": "92391.0",
                 "languages": "pt-PT,mwl",
                 "isoAlpha3": "PRT",
-                "geonameId": "2264397"
+                "geonameId": "2264397",
+	    "flagURL":""
             },
             {
                 "countryCode": "PW",
@@ -3514,7 +3697,8 @@
                 "areaInSqKm": "458.0",
                 "languages": "pau,sov,en-PW,tox,ja,fil,zh",
                 "isoAlpha3": "PLW",
-                "geonameId": "1559582"
+                "geonameId": "1559582",
+	    "flagURL":""
             },
             {
                 "countryCode": "PY",
@@ -3533,7 +3717,8 @@
                 "areaInSqKm": "406750.0",
                 "languages": "es-PY,gn",
                 "isoAlpha3": "PRY",
-                "geonameId": "3437598"
+                "geonameId": "3437598",
+	    "flagURL":""
             },
             {
                 "countryCode": "QA",
@@ -3552,7 +3737,8 @@
                 "areaInSqKm": "11437.0",
                 "languages": "ar-ع-QA,es",
                 "isoAlpha3": "QAT",
-                "geonameId": "289688"
+                "geonameId": "289688",
+	    "flagURL":""
             },
             {
                 "countryCode": "RE",
@@ -3571,7 +3757,8 @@
                 "areaInSqKm": "2517.0",
                 "languages": "fr-RE",
                 "isoAlpha3": "REU",
-                "geonameId": "935317"
+                "geonameId": "935317",
+	    "flagURL":""
             },
             {
                 "countryCode": "RO",
@@ -3590,7 +3777,8 @@
                 "areaInSqKm": "237500.0",
                 "languages": "ro,hu,rom",
                 "isoAlpha3": "ROU",
-                "geonameId": "798549"
+                "geonameId": "798549",
+	    "flagURL":""
             },
             {
                 "countryCode": "RS",
@@ -3609,7 +3797,8 @@
                 "areaInSqKm": "88361.0",
                 "languages": "sr,hu,bs,rom",
                 "isoAlpha3": "SRB",
-                "geonameId": "6290252"
+                "geonameId": "6290252",
+	    "flagURL":""
             },
             {
                 "countryCode": "RU",
@@ -3628,7 +3817,8 @@
                 "areaInSqKm": "1.71E7",
                 "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
                 "isoAlpha3": "RUS",
-                "geonameId": "2017370"
+                "geonameId": "2017370",
+	    "flagURL":""
             },
             {
                 "countryCode": "RW",
@@ -3647,7 +3837,8 @@
                 "areaInSqKm": "26338.0",
                 "languages": "rw,en-RW,fr-RW,sw",
                 "isoAlpha3": "RWA",
-                "geonameId": "49518"
+                "geonameId": "49518",
+	    "flagURL":""
             },
             {
                 "countryCode": "SA",
@@ -3666,7 +3857,8 @@
                 "areaInSqKm": "1960582.0",
                 "languages": "ar-ع-SA",
                 "isoAlpha3": "SAU",
-                "geonameId": "102358"
+                "geonameId": "102358",
+	    "flagURL":""
             },
             {
                 "countryCode": "SB",
@@ -3685,7 +3877,8 @@
                 "areaInSqKm": "28450.0",
                 "languages": "en-SB,tpi",
                 "isoAlpha3": "SLB",
-                "geonameId": "2103350"
+                "geonameId": "2103350",
+	    "flagURL":""
             },
             {
                 "countryCode": "SC",
@@ -3704,7 +3897,8 @@
                 "areaInSqKm": "455.0",
                 "languages": "en-SC,fr-SC",
                 "isoAlpha3": "SYC",
-                "geonameId": "241170"
+                "geonameId": "241170",
+	    "flagURL":""
             },
             {
                 "countryCode": "SD",
@@ -3723,7 +3917,8 @@
                 "areaInSqKm": "1861484.0",
                 "languages": "ar-ع-SD,en,fia",
                 "isoAlpha3": "SDN",
-                "geonameId": "366755"
+                "geonameId": "366755",
+	    "flagURL":""
             },
             {
                 "countryCode": "SE",
@@ -3742,7 +3937,8 @@
                 "areaInSqKm": "449964.0",
                 "languages": "sv-SE,se,sma,fi-SE",
                 "isoAlpha3": "SWE",
-                "geonameId": "2661886"
+                "geonameId": "2661886",
+	    "flagURL":""
             },
             {
                 "countryCode": "SG",
@@ -3761,7 +3957,8 @@
                 "areaInSqKm": "692.7",
                 "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
                 "isoAlpha3": "SGP",
-                "geonameId": "1880251"
+                "geonameId": "1880251",
+	    "flagURL":""
             },
             {
                 "countryCode": "SH",
@@ -3780,7 +3977,8 @@
                 "areaInSqKm": "410.0",
                 "languages": "en-SH",
                 "isoAlpha3": "SHN",
-                "geonameId": "3370751"
+                "geonameId": "3370751",
+	    "flagURL":""
             },
             {
                 "countryCode": "SI",
@@ -3799,7 +3997,8 @@
                 "areaInSqKm": "20273.0",
                 "languages": "sl,sh",
                 "isoAlpha3": "SVN",
-                "geonameId": "3190538"
+                "geonameId": "3190538",
+	    "flagURL":""
             },
             {
                 "countryCode": "SJ",
@@ -3818,7 +4017,8 @@
                 "areaInSqKm": "62049.0",
                 "languages": "no,ru",
                 "isoAlpha3": "SJM",
-                "geonameId": "607072"
+                "geonameId": "607072",
+	    "flagURL":""
             },
             {
                 "countryCode": "SK",
@@ -3837,7 +4037,8 @@
                 "areaInSqKm": "48845.0",
                 "languages": "sk,hu",
                 "isoAlpha3": "SVK",
-                "geonameId": "3057568"
+                "geonameId": "3057568",
+	    "flagURL":""
             },
             {
                 "countryCode": "SL",
@@ -3856,7 +4057,8 @@
                 "areaInSqKm": "71740.0",
                 "languages": "en-SL,men,tem",
                 "isoAlpha3": "SLE",
-                "geonameId": "2403846"
+                "geonameId": "2403846",
+	    "flagURL":""
             },
             {
                 "countryCode": "SM",
@@ -3875,7 +4077,8 @@
                 "areaInSqKm": "61.2",
                 "languages": "it-SM",
                 "isoAlpha3": "SMR",
-                "geonameId": "3168068"
+                "geonameId": "3168068",
+	    "flagURL":""
             },
             {
                 "countryCode": "SN",
@@ -3894,7 +4097,8 @@
                 "areaInSqKm": "196190.0",
                 "languages": "fr-SN,wo,fuc,mnk",
                 "isoAlpha3": "SEN",
-                "geonameId": "2245662"
+                "geonameId": "2245662",
+	    "flagURL":""
             },
             {
                 "countryCode": "SO",
@@ -3913,7 +4117,8 @@
                 "areaInSqKm": "637657.0",
                 "languages": "so-SO,ar-ع-SO,it,en-SO",
                 "isoAlpha3": "SOM",
-                "geonameId": "51537"
+                "geonameId": "51537",
+	    "flagURL":""
             },
             {
                 "countryCode": "SR",
@@ -3932,7 +4137,8 @@
                 "areaInSqKm": "163270.0",
                 "languages": "nl-SR,en,srn,hns,jv",
                 "isoAlpha3": "SUR",
-                "geonameId": "3382998"
+                "geonameId": "3382998",
+	    "flagURL":""
             },
             {
                 "countryCode": "SS",
@@ -3951,7 +4157,8 @@
                 "areaInSqKm": "644329.0",
                 "languages": "en",
                 "isoAlpha3": "SSD",
-                "geonameId": "7909807"
+                "geonameId": "7909807",
+	    "flagURL":""
             },
             {
                 "countryCode": "ST",
@@ -3970,7 +4177,8 @@
                 "areaInSqKm": "1001.0",
                 "languages": "pt-ST",
                 "isoAlpha3": "STP",
-                "geonameId": "2410758"
+                "geonameId": "2410758",
+	    "flagURL":""
             },
             {
                 "countryCode": "SV",
@@ -3989,7 +4197,8 @@
                 "areaInSqKm": "21040.0",
                 "languages": "es-SV",
                 "isoAlpha3": "SLV",
-                "geonameId": "3585968"
+                "geonameId": "3585968",
+	    "flagURL":""
             },
             {
                 "countryCode": "SX",
@@ -4008,7 +4217,8 @@
                 "areaInSqKm": "21.0",
                 "languages": "nl,en",
                 "isoAlpha3": "SXM",
-                "geonameId": "7609695"
+                "geonameId": "7609695",
+	    "flagURL":""
             },
             {
                 "countryCode": "SY",
@@ -4027,7 +4237,8 @@
                 "areaInSqKm": "185180.0",
                 "languages": "ar-ع-SY,ku,hy,arc,fr,en",
                 "isoAlpha3": "SYR",
-                "geonameId": "163843"
+                "geonameId": "163843",
+	    "flagURL":""
             },
             {
                 "countryCode": "SZ",
@@ -4046,7 +4257,8 @@
                 "areaInSqKm": "17363.0",
                 "languages": "en-SZ,ss-SZ",
                 "isoAlpha3": "SWZ",
-                "geonameId": "934841"
+                "geonameId": "934841",
+	    "flagURL":""
             },
             {
                 "countryCode": "TC",
@@ -4065,7 +4277,8 @@
                 "areaInSqKm": "430.0",
                 "languages": "en-TC",
                 "isoAlpha3": "TCA",
-                "geonameId": "3576916"
+                "geonameId": "3576916",
+	    "flagURL":""
             },
             {
                 "countryCode": "TD",
@@ -4084,7 +4297,8 @@
                 "areaInSqKm": "1284000.0",
                 "languages": "fr-TD,ar-ع-TD,sre",
                 "isoAlpha3": "TCD",
-                "geonameId": "2434508"
+                "geonameId": "2434508",
+	    "flagURL":""
             },
             {
                 "countryCode": "TF",
@@ -4103,7 +4317,8 @@
                 "areaInSqKm": "7829.0",
                 "languages": "fr",
                 "isoAlpha3": "ATF",
-                "geonameId": "1546748"
+                "geonameId": "1546748",
+	    "flagURL":""
             },
             {
                 "countryCode": "TG",
@@ -4122,7 +4337,8 @@
                 "areaInSqKm": "56785.0",
                 "languages": "fr-TG,ee,hna,kbp,dag,ha",
                 "isoAlpha3": "TGO",
-                "geonameId": "2363686"
+                "geonameId": "2363686",
+	    "flagURL":""
             },
             {
                 "countryCode": "TH",
@@ -4141,7 +4357,8 @@
                 "areaInSqKm": "514000.0",
                 "languages": "th,en",
                 "isoAlpha3": "THA",
-                "geonameId": "1605651"
+                "geonameId": "1605651",
+	    "flagURL":""
             },
             {
                 "countryCode": "TJ",
@@ -4160,7 +4377,8 @@
                 "areaInSqKm": "143100.0",
                 "languages": "tg,ru",
                 "isoAlpha3": "TJK",
-                "geonameId": "1220409"
+                "geonameId": "1220409",
+	    "flagURL":""
             },
             {
                 "countryCode": "TK",
@@ -4179,7 +4397,8 @@
                 "areaInSqKm": "10.0",
                 "languages": "tkl,en-TK",
                 "isoAlpha3": "TKL",
-                "geonameId": "4031074"
+                "geonameId": "4031074",
+	    "flagURL":""
             },
             {
                 "countryCode": "TL",
@@ -4198,7 +4417,8 @@
                 "areaInSqKm": "15007.0",
                 "languages": "tet,pt-TL,id,en",
                 "isoAlpha3": "TLS",
-                "geonameId": "1966436"
+                "geonameId": "1966436",
+	    "flagURL":""
             },
             {
                 "countryCode": "TM",
@@ -4217,7 +4437,8 @@
                 "areaInSqKm": "488100.0",
                 "languages": "tk,ru,uz",
                 "isoAlpha3": "TKM",
-                "geonameId": "1218197"
+                "geonameId": "1218197",
+	    "flagURL":""
             },
             {
                 "countryCode": "TN",
@@ -4236,7 +4457,8 @@
                 "areaInSqKm": "163610.0",
                 "languages": "ar-ع-TN,fr",
                 "isoAlpha3": "TUN",
-                "geonameId": "2464461"
+                "geonameId": "2464461",
+	    "flagURL":""
             },
             {
                 "countryCode": "TO",
@@ -4255,7 +4477,8 @@
                 "areaInSqKm": "748.0",
                 "languages": "to,en-TO",
                 "isoAlpha3": "TON",
-                "geonameId": "4032283"
+                "geonameId": "4032283",
+	    "flagURL":""
             },
             {
                 "countryCode": "TR",
@@ -4274,7 +4497,8 @@
                 "areaInSqKm": "780580.0",
                 "languages": "tr-TR,ku,diq,az,av",
                 "isoAlpha3": "TUR",
-                "geonameId": "298795"
+                "geonameId": "298795",
+	    "flagURL":""
             },
             {
                 "countryCode": "TT",
@@ -4293,7 +4517,8 @@
                 "areaInSqKm": "5128.0",
                 "languages": "en-TT,hns,fr,es,zh",
                 "isoAlpha3": "TTO",
-                "geonameId": "3573591"
+                "geonameId": "3573591",
+	    "flagURL":""
             },
             {
                 "countryCode": "TV",
@@ -4312,7 +4537,8 @@
                 "areaInSqKm": "26.0",
                 "languages": "tvl,en,sm,gil",
                 "isoAlpha3": "TUV",
-                "geonameId": "2110297"
+                "geonameId": "2110297",
+	    "flagURL":""
             },
             {
                 "countryCode": "TW",
@@ -4331,7 +4557,8 @@
                 "areaInSqKm": "35980.0",
                 "languages": "zh-TW,zh,nan,hak",
                 "isoAlpha3": "TWN",
-                "geonameId": "1668284"
+                "geonameId": "1668284",
+	    "flagURL":""
             },
             {
                 "countryCode": "TZ",
@@ -4350,7 +4577,8 @@
                 "areaInSqKm": "945087.0",
                 "languages": "sw-TZ,en,ar",
                 "isoAlpha3": "TZA",
-                "geonameId": "149590"
+                "geonameId": "149590",
+	    "flagURL":""
             },
             {
                 "countryCode": "UA",
@@ -4369,7 +4597,8 @@
                 "areaInSqKm": "603700.0",
                 "languages": "uk,ru-UA,rom,pl,hu",
                 "isoAlpha3": "UKR",
-                "geonameId": "690791"
+                "geonameId": "690791",
+	    "flagURL":""
             },
             {
                 "countryCode": "UG",
@@ -4388,7 +4617,8 @@
                 "areaInSqKm": "236040.0",
                 "languages": "en-UG,lg,sw,ar",
                 "isoAlpha3": "UGA",
-                "geonameId": "226074"
+                "geonameId": "226074",
+	    "flagURL":""
             },
             {
                 "countryCode": "UM",
@@ -4407,7 +4637,8 @@
                 "areaInSqKm": "0.0",
                 "languages": "en-UM",
                 "isoAlpha3": "UMI",
-                "geonameId": "5854968"
+                "geonameId": "5854968",
+	    "flagURL":""
             },
             {
                 "countryCode": "US",
@@ -4426,7 +4657,8 @@
                 "areaInSqKm": "9629091.0",
                 "languages": "en-US,es-US,haw,fr",
                 "isoAlpha3": "USA",
-                "geonameId": "6252001"
+                "geonameId": "6252001",
+	    "flagURL":""
             },
             {
                 "countryCode": "UY",
@@ -4445,7 +4677,8 @@
                 "areaInSqKm": "176220.0",
                 "languages": "es-UY",
                 "isoAlpha3": "URY",
-                "geonameId": "3439705"
+                "geonameId": "3439705",
+	    "flagURL":""
             },
             {
                 "countryCode": "UZ",
@@ -4464,7 +4697,8 @@
                 "areaInSqKm": "447400.0",
                 "languages": "uz,ru,tg",
                 "isoAlpha3": "UZB",
-                "geonameId": "1512440"
+                "geonameId": "1512440",
+	    "flagURL":""
             },
             {
                 "countryCode": "VA",
@@ -4483,7 +4717,8 @@
                 "areaInSqKm": "0.44",
                 "languages": "la,it,fr",
                 "isoAlpha3": "VAT",
-                "geonameId": "3164670"
+                "geonameId": "3164670",
+	    "flagURL":""
             },
             {
                 "countryCode": "VC",
@@ -4502,7 +4737,8 @@
                 "areaInSqKm": "389.0",
                 "languages": "en-VC,fr",
                 "isoAlpha3": "VCT",
-                "geonameId": "3577815"
+                "geonameId": "3577815",
+	    "flagURL":""
             },
             {
                 "countryCode": "VE",
@@ -4521,7 +4757,8 @@
                 "areaInSqKm": "912050.0",
                 "languages": "es-VE",
                 "isoAlpha3": "VEN",
-                "geonameId": "3625428"
+                "geonameId": "3625428",
+	    "flagURL":""
             },
             {
                 "countryCode": "VG",
@@ -4540,7 +4777,8 @@
                 "areaInSqKm": "153.0",
                 "languages": "en-VG",
                 "isoAlpha3": "VGB",
-                "geonameId": "3577718"
+                "geonameId": "3577718",
+	    "flagURL":""
             },
             {
                 "countryCode": "VI",
@@ -4559,7 +4797,8 @@
                 "areaInSqKm": "352.0",
                 "languages": "en-VI",
                 "isoAlpha3": "VIR",
-                "geonameId": "4796775"
+                "geonameId": "4796775",
+	    "flagURL":""
             },
             {
                 "countryCode": "VN",
@@ -4578,7 +4817,8 @@
                 "areaInSqKm": "329560.0",
                 "languages": "vi,en,fr,zh,km",
                 "isoAlpha3": "VNM",
-                "geonameId": "1562822"
+                "geonameId": "1562822",
+	    "flagURL":""
             },
             {
                 "countryCode": "VU",
@@ -4597,7 +4837,8 @@
                 "areaInSqKm": "12200.0",
                 "languages": "bi,en-VU,fr-VU",
                 "isoAlpha3": "VUT",
-                "geonameId": "2134431"
+                "geonameId": "2134431",
+	    "flagURL":""
             },
             {
                 "countryCode": "WF",
@@ -4616,7 +4857,8 @@
                 "areaInSqKm": "274.0",
                 "languages": "wls,fud,fr-WF",
                 "isoAlpha3": "WLF",
-                "geonameId": "4034749"
+                "geonameId": "4034749",
+	    "flagURL":""
             },
             {
                 "countryCode": "WS",
@@ -4635,7 +4877,8 @@
                 "areaInSqKm": "2944.0",
                 "languages": "sm,en-WS",
                 "isoAlpha3": "WSM",
-                "geonameId": "4034894"
+                "geonameId": "4034894",
+	    "flagURL":""
             },
             {
                 "countryCode": "XK",
@@ -4654,7 +4897,8 @@
                 "areaInSqKm": "10908.0",
                 "languages": "sq,sr",
                 "isoAlpha3": "XKX",
-                "geonameId": "831053"
+                "geonameId": "831053",
+	    "flagURL":""
             },
             {
                 "countryCode": "YE",
@@ -4673,7 +4917,8 @@
                 "areaInSqKm": "527970.0",
                 "languages": "ar-ع-YE",
                 "isoAlpha3": "YEM",
-                "geonameId": "69543"
+                "geonameId": "69543",
+	    "flagURL":""
             },
             {
                 "countryCode": "YT",
@@ -4692,7 +4937,8 @@
                 "areaInSqKm": "374.0",
                 "languages": "fr-YT",
                 "isoAlpha3": "MYT",
-                "geonameId": "1024031"
+                "geonameId": "1024031",
+	    "flagURL":""
             },
             {
                 "countryCode": "ZA",
@@ -4711,7 +4957,8 @@
                 "areaInSqKm": "1219912.0",
                 "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
                 "isoAlpha3": "ZAF",
-                "geonameId": "953987"
+                "geonameId": "953987",
+	    "flagURL":""
             },
             {
                 "countryCode": "ZM",
@@ -4730,7 +4977,8 @@
                 "areaInSqKm": "752614.0",
                 "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
                 "isoAlpha3": "ZMB",
-                "geonameId": "895949"
+                "geonameId": "895949",
+	    "flagURL":""
             },
             {
                 "countryCode": "ZW",
@@ -4749,6 +4997,7 @@
                 "areaInSqKm": "390580.0",
                 "languages": "en-ZW,sn,nr,nd",
                 "isoAlpha3": "ZWE",
-                "geonameId": "878675"
+                "geonameId": "878675",
+	    "flagURL":""
             }
         ]

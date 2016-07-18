@@ -4,7 +4,8 @@ angular
     .controller('countryListCtrl', function ($scope,getJSON){
         getJSON.list(function(countries){
           $scope.countriesList=countries;
-					$scope.countriesList.length=totalCountries;
+					var totalCountries;
+					$scope.countriesList.length= totalCountries;
         });
         $scope.sortField="-population";
 				});

@@ -14,7 +14,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <form class="navbar-form navbar-right" >
-                <input ng-model="query" type="text" class="form-control" placeholder="Search...">
+                <input  ng-model="query" type="text" class="form-control" ng-bind="searchValue" placeholder="Search...">
               </form>
             </div>
         </div>
@@ -36,7 +36,7 @@
               </div>
               <div id="e cnavbar" class="navbar-collapse collapse">
                 <form class="navbar-form navbar-right" >
-                  <input ng-model="query" ng-value="" type="text" class="form-control" placeholder="Search...">
+                  <input ng-model="searchValue" type="text" class="form-control" value="searchValue" placeholder="Search..." >
                 </form>
               </div>
             </div>
@@ -47,7 +47,17 @@
                         <li><a href="#/">Stats</a></li>
                         <li><a href="#/">Facts</a></li>
                       </ul>
-                      <continent-list></continent-list>
+                      <h4>Continents</h4>
+                        <ul class="nav nav-sidebar">
+                          <li>
+                            <a href="#/" ng-click="searchValue='Africa'">Africa</a>
+                            <a href="#/" ng-click="searchValue='Antarctica'">Antarctica</a>
+                            <a href="#/" ng-click="searchValue='Europe'">Europe</a>
+                            <a href="#/" ng-click="searchValue='North America'">North America</a>
+                            <a href="#/" ng-click="searchValue='Oceania'">Oceania</a>
+                            <a href="#/" ng-click="searchValue='South America'">South America</a>
+                          </li>
+                      </ul>
                     </div>
                 <div class="table-responsive">
                   <table class="table table-striped">
@@ -64,7 +74,7 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr ng-repeat="country in countriesList | filter:query | orderBy:sortField:reverse" >
+                      <tr ng-repeat="country in countriesList | filter:searchValue | orderBy:sortField:reverse" >
                         <td> <a href="#/{{country.countryName}}">{{country.countryName}}</a> </td>
                        <td> <a href="#/{{country.countryName}}">{{country.countryCode}}</a> </td>
                        <td> <a href="#/{{country.countryName}}">{{country.currencyCode}}</a> </td>

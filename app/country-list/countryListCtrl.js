@@ -7,9 +7,4 @@ angular
         });
       $scope.sortField="population";
 
-				})
-				.directive("continent-list",function(){
-				  return{
-				    templateUrl: "continents/continents.template.html"
-				  };
-				});
+		});

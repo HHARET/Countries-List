@@ -1,1 +1,1 @@
-angular.module('countryDetails',['continentList']);
+angular.module('countryDetails',[]);

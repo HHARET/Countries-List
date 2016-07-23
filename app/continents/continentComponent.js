@@ -1,5 +1,5 @@
 'use strict';
 angular.module('countriesApp')
        .component('continentList', {
-         templateUrl:'continent.template.html'
+         templateUrl:'continents/continents.template.html'
        });

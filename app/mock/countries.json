@@ -13,7 +13,7 @@
                 "capital": "Andorra la Vella",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "468.0",
+                "areaInSqKm": 468.0,
                 "languages": "ca",
                 "isoAlpha3": "AND",
                 "geonameId": "3041565",
@@ -33,7 +33,7 @@
                 "capital": "Abu Dhabi",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "82880.0",
+                "areaInSqKm": 82880.0,
                 "languages": "ar-ع-AE,fa,en,hi,ur",
                 "isoAlpha3": "ARE",
                 "geonameId": "290557",
@@ -53,7 +53,7 @@
                 "capital": "Kabul",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "647500.0",
+                "areaInSqKm": 647500.0,
                 "languages": "fa-AF,ps,uz-AF,tk",
                 "isoAlpha3": "AFG",
                 "geonameId": "1149361",
@@ -73,7 +73,7 @@
                 "capital": "St. John's",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "443.0",
+                "areaInSqKm": 443.0,
                 "languages": "en-AG",
                 "isoAlpha3": "ATG",
                 "geonameId": "3576396",
@@ -93,7 +93,7 @@
                 "capital": "The Valley",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "102.0",
+                "areaInSqKm": 102.0,
                 "languages": "en-AI",
                 "isoAlpha3": "AIA",
                 "geonameId": "3573511",
@@ -113,7 +113,7 @@
                 "capital": "Tirana",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "28748.0",
+                "areaInSqKm": 28748.0,
                 "languages": "sq,el",
                 "isoAlpha3": "ALB",
                 "geonameId": "783754",
@@ -133,7 +133,7 @@
                 "capital": "Yerevan",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "29800.0",
+                "areaInSqKm": 29800.0,
                 "languages": "hy",
                 "isoAlpha3": "ARM",
                 "geonameId": "174982",
@@ -153,7 +153,7 @@
                 "capital": "Luanda",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1246700.0",
+                "areaInSqKm": 1246700.0,
                 "languages": "pt-AO",
                 "isoAlpha3": "AGO",
                 "geonameId": "3351879",
@@ -173,7 +173,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "continent": "AN",
-                "areaInSqKm": "1.4E7",
+                "areaInSqKm": 1.4E7,
                 "languages": "",
                 "isoAlpha3": "ATA",
                 "geonameId": "6697173",
@@ -193,7 +193,7 @@
                 "capital": "Buenos Aires",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "2766890.0",
+                "areaInSqKm": 2766890.0,
                 "languages": "es-AR,en,it,de,fr,gn",
                 "isoAlpha3": "ARG",
                 "geonameId": "3865483",
@@ -213,7 +213,7 @@
                 "capital": "Pago Pago",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "199.0",
+                "areaInSqKm": 199.0,
                 "languages": "en-AS,sm,to",
                 "isoAlpha3": "ASM",
                 "geonameId": "5880801",
@@ -233,7 +233,7 @@
                 "capital": "Vienna",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "83858.0",
+                "areaInSqKm": 83858.0,
                 "languages": "de-AT,hr,hu,sl",
                 "isoAlpha3": "AUT",
                 "geonameId": "2782113",
@@ -253,7 +253,7 @@
                 "capital": "Canberra",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "7686850.0",
+                "areaInSqKm": 7686850.0,
                 "languages": "en-AU",
                 "isoAlpha3": "AUS",
                 "geonameId": "2077456",
@@ -273,7 +273,7 @@
                 "capital": "Oranjestad",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "193.0",
+                "areaInSqKm": 193.0,
                 "languages": "nl-AW,es,en",
                 "isoAlpha3": "ABW",
                 "geonameId": "3577279",
@@ -293,7 +293,7 @@
                 "capital": "Mariehamn",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "1580.0",
+                "areaInSqKm": 1580.0,
                 "languages": "sv-AX",
                 "isoAlpha3": "ALA",
                 "geonameId": "661882",
@@ -313,7 +313,7 @@
                 "capital": "Baku",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "86600.0",
+                "areaInSqKm": 86600.0,
                 "languages": "az,ru,hy",
                 "isoAlpha3": "AZE",
                 "geonameId": "587116",
@@ -333,7 +333,7 @@
                 "capital": "Sarajevo",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "51129.0",
+                "areaInSqKm": 51129.0,
                 "languages": "bs,hr-BA,sr-BA",
                 "isoAlpha3": "BIH",
                 "geonameId": "3277605",
@@ -353,7 +353,7 @@
                 "capital": "Bridgetown",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "431.0",
+                "areaInSqKm": 431.0,
                 "languages": "en-BB",
                 "isoAlpha3": "BRB",
                 "geonameId": "3374084",
@@ -373,7 +373,7 @@
                 "capital": "Dhaka",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "144000.0",
+                "areaInSqKm": 144000.0,
                 "languages": "bn-BD,en",
                 "isoAlpha3": "BGD",
                 "geonameId": "1210997",
@@ -393,7 +393,7 @@
                 "capital": "Brussels",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "30510.0",
+                "areaInSqKm": 30510.0,
                 "languages": "nl-BE,fr-BE,de-BE",
                 "isoAlpha3": "BEL",
                 "geonameId": "2802361",
@@ -413,7 +413,7 @@
                 "capital": "Ouagadougou",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "274200.0",
+                "areaInSqKm": 274200.0,
                 "languages": "fr-BF",
                 "isoAlpha3": "BFA",
                 "geonameId": "2361809",
@@ -433,7 +433,7 @@
                 "capital": "Sofia",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "110910.0",
+                "areaInSqKm": 110910.0,
                 "languages": "bg,tr-BG,rom",
                 "isoAlpha3": "BGR",
                 "geonameId": "732800",
@@ -453,11 +453,11 @@
                 "capital": "Manama",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "665.0",
+                "areaInSqKm": 665.0,
                 "languages": "ar-ع-BH,en,fa,ur",
                 "isoAlpha3": "BHR",
                 "geonameId": "290291",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
             },
             {
                 "countryCode": "BI",
@@ -473,11 +473,11 @@
                 "capital": "Bujumbura",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "27830.0",
+                "areaInSqKm": 27830.0,
                 "languages": "fr-BI,rn",
                 "isoAlpha3": "BDI",
                 "geonameId": "433561",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
             },
             {
                 "countryCode": "BJ",
@@ -493,11 +493,11 @@
                 "capital": "Porto-Novo",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "112620.0",
+                "areaInSqKm": 112620.0,
                 "languages": "fr-BJ",
                 "isoAlpha3": "BEN",
                 "geonameId": "2395170",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
             },
             {
                 "countryCode": "BL",
@@ -513,7 +513,7 @@
                 "capital": "Gustavia",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "21.0",
+                "areaInSqKm": 21.0,
                 "languages": "fr",
                 "isoAlpha3": "BLM",
                 "geonameId": "3578476",
@@ -533,11 +533,11 @@
                 "capital": "Hamilton",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "53.0",
+                "areaInSqKm": 53.0,
                 "languages": "en-BM,pt",
                 "isoAlpha3": "BMU",
                 "geonameId": "3573345",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg"
             },
             {
                 "countryCode": "BN",
@@ -553,11 +553,11 @@
                 "capital": "Bandar Seri Begawan",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "5770.0",
+                "areaInSqKm": 5770.0,
                 "languages": "ms-BN,en-BN",
                 "isoAlpha3": "BRN",
                 "geonameId": "1820814",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
             },
             {
                 "countryCode": "BO",
@@ -573,11 +573,11 @@
                 "capital": "Sucre",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "1098580.0",
+                "areaInSqKm": 1098580.0,
                 "languages": "es-BO,qu,ay",
                 "isoAlpha3": "BOL",
                 "geonameId": "3923057",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg"
             },
             {
                 "countryCode": "BQ",
@@ -593,7 +593,7 @@
                 "capital": "Kralendijk",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "328.0",
+                "areaInSqKm": 328.0,
                 "languages": "nl,pap,en",
                 "isoAlpha3": "BES",
                 "geonameId": "7626844",
@@ -613,11 +613,11 @@
                 "capital": "Brasília",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "8511965.0",
+                "areaInSqKm": 8511965.0,
                 "languages": "pt-BR,es,en,fr",
                 "isoAlpha3": "BRA",
                 "geonameId": "3469034",
-	    "flagURL":""
+	    "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
             },
             {
                 "countryCode": "BS",
@@ -633,11 +633,11 @@
                 "capital": "Nassau",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "13940.0",
+                "areaInSqKm": 13940.0,
                 "languages": "en-BS",
                 "isoAlpha3": "BHS",
                 "geonameId": "3572887",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
             },
             {
                 "countryCode": "BT",
@@ -653,11 +653,11 @@
                 "capital": "Thimphu",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "47000.0",
+                "areaInSqKm": 47000.0,
                 "languages": "dz",
                 "isoAlpha3": "BTN",
                 "geonameId": "1252634",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
             },
             {
                 "countryCode": "BV",
@@ -673,11 +673,11 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "continent": "AN",
-                "areaInSqKm": "49.0",
+                "areaInSqKm": 49.0,
                 "languages": "",
                 "isoAlpha3": "BVT",
                 "geonameId": "3371123",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
             },
             {
                 "countryCode": "BW",
@@ -693,11 +693,11 @@
                 "capital": "Gaborone",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "600370.0",
+                "areaInSqKm": 600370.0,
                 "languages": "en-BW,tn-BW",
                 "isoAlpha3": "BWA",
                 "geonameId": "933860",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
             },
             {
                 "countryCode": "BY",
@@ -713,11 +713,11 @@
                 "capital": "Minsk",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "207600.0",
+                "areaInSqKm": 207600.0,
                 "languages": "be,ru",
                 "isoAlpha3": "BLR",
                 "geonameId": "630336",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
             },
             {
                 "countryCode": "BZ",
@@ -733,11 +733,11 @@
                 "capital": "Belmopan",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "22966.0",
+                "areaInSqKm": 22966.0,
                 "languages": "en-BZ,es",
                 "isoAlpha3": "BLZ",
                 "geonameId": "3582678",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
             },
             {
                 "countryCode": "CA",
@@ -753,11 +753,11 @@
                 "capital": "Ottawa",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "9984670.0",
+                "areaInSqKm": 9984670.0,
                 "languages": "en-CA,fr-CA,iu",
                 "isoAlpha3": "CAN",
                 "geonameId": "6251999",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
             },
             {
                 "countryCode": "CC",
@@ -773,11 +773,11 @@
                 "capital": "West Island",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "14.0",
+                "areaInSqKm": 14.0,
                 "languages": "ms-CC,en",
                 "isoAlpha3": "CCK",
                 "geonameId": "1547376",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg"
             },
             {
                 "countryCode": "CD",
@@ -793,11 +793,11 @@
                 "capital": "Kinshasa",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "2345410.0",
+                "areaInSqKm": 2345410.0,
                 "languages": "fr-CD,ln,kg",
                 "isoAlpha3": "COD",
                 "geonameId": "203312",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
             },
             {
                 "countryCode": "CF",
@@ -813,11 +813,11 @@
                 "capital": "Bangui",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "622984.0",
+                "areaInSqKm": 622984.0,
                 "languages": "fr-CF,sg,ln,kg",
                 "isoAlpha3": "CAF",
                 "geonameId": "239880",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
             },
             {
                 "countryCode": "CG",
@@ -833,11 +833,11 @@
                 "capital": "Brazzaville",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "342000.0",
+                "areaInSqKm": 342000.0,
                 "languages": "fr-CG,kg,ln-CG",
                 "isoAlpha3": "COG",
                 "geonameId": "2260494",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
             },
             {
                 "countryCode": "CH",
@@ -853,11 +853,11 @@
                 "capital": "Bern",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "41290.0",
+                "areaInSqKm": 41290.0,
                 "languages": "de-CH,fr-CH,it-CH,rm",
                 "isoAlpha3": "CHE",
                 "geonameId": "2658434",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
             },
             {
                 "countryCode": "CI",
@@ -873,11 +873,11 @@
                 "capital": "Yamoussoukro",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "322460.0",
+                "areaInSqKm": 322460.0,
                 "languages": "fr-CI",
                 "isoAlpha3": "CIV",
                 "geonameId": "2287781",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
             },
             {
                 "countryCode": "CK",
@@ -893,11 +893,11 @@
                 "capital": "Avarua",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "240.0",
+                "areaInSqKm": 240.0,
                 "languages": "en-CK,mi",
                 "isoAlpha3": "COK",
                 "geonameId": "1899402",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg"
             },
             {
                 "countryCode": "CL",
@@ -913,11 +913,11 @@
                 "capital": "Santiago",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "756950.0",
+                "areaInSqKm": 756950.0,
                 "languages": "es-CL",
                 "isoAlpha3": "CHL",
                 "geonameId": "3895114",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
             },
             {
                 "countryCode": "CM",
@@ -933,11 +933,11 @@
                 "capital": "Yaoundé",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "475440.0",
+                "areaInSqKm": 475440.0,
                 "languages": "en-CM,fr-CM",
                 "isoAlpha3": "CMR",
                 "geonameId": "2233387",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
             },
             {
                 "countryCode": "CN",
@@ -953,7 +953,7 @@
                 "capital": "Beijing",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "9596960.0",
+                "areaInSqKm": 9596960.0,
                 "languages": "zh-CN,yue,wuu,dta,ug,za",
                 "isoAlpha3": "CHN",
                 "geonameId": "1814991",
@@ -973,11 +973,11 @@
                 "capital": "Bogotá",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "1138910.0",
+                "areaInSqKm": 1138910.0,
                 "languages": "es-CO",
                 "isoAlpha3": "COL",
                 "geonameId": "3686110",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
             },
             {
                 "countryCode": "CR",
@@ -993,11 +993,11 @@
                 "capital": "San José",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "51100.0",
+                "areaInSqKm": 51100.0,
                 "languages": "es-CR,en",
                 "isoAlpha3": "CRI",
                 "geonameId": "3624060",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
             },
             {
                 "countryCode": "CU",
@@ -1013,11 +1013,11 @@
                 "capital": "Havana",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "110860.0",
+                "areaInSqKm": 110860.0,
                 "languages": "es-CU",
                 "isoAlpha3": "CUB",
                 "geonameId": "3562981",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
             },
             {
                 "countryCode": "CV",
@@ -1033,11 +1033,11 @@
                 "capital": "Praia",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "4033.0",
+                "areaInSqKm": 4033.0,
                 "languages": "pt-CV",
                 "isoAlpha3": "CPV",
                 "geonameId": "3374766",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
             },
             {
                 "countryCode": "CW",
@@ -1053,7 +1053,7 @@
                 "capital": "Willemstad",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "444.0",
+                "areaInSqKm": 444.0,
                 "languages": "nl,pap",
                 "isoAlpha3": "CUW",
                 "geonameId": "7626836",
@@ -1073,11 +1073,11 @@
                 "capital": "Flying Fish Cove",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "135.0",
+                "areaInSqKm": 135.0,
                 "languages": "en,zh,ms-CC",
                 "isoAlpha3": "CXR",
                 "geonameId": "2078138",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg"
             },
             {
                 "countryCode": "CY",
@@ -1093,11 +1093,11 @@
                 "capital": "Nicosia",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "9250.0",
+                "areaInSqKm": 9250.0,
                 "languages": "el-CY,tr-CY,en",
                 "isoAlpha3": "CYP",
                 "geonameId": "146669",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
             },
             {
                 "countryCode": "CZ",
@@ -1113,11 +1113,11 @@
                 "capital": "Prague",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "78866.0",
+                "areaInSqKm": 78866.0,
                 "languages": "cs,sk",
                 "isoAlpha3": "CZE",
                 "geonameId": "3077311",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
             },
             {
                 "countryCode": "DE",
@@ -1133,11 +1133,11 @@
                 "capital": "Berlin",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "357021.0",
+                "areaInSqKm": 357021.0,
                 "languages": "de",
                 "isoAlpha3": "DEU",
                 "geonameId": "2921044",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
             },
             {
                 "countryCode": "DJ",
@@ -1153,11 +1153,11 @@
                 "capital": "Djibouti",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "23000.0",
+                "areaInSqKm": 23000.0,
                 "languages": "fr-DJ,ar,so-DJ,aa",
                 "isoAlpha3": "DJI",
                 "geonameId": "223816",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
             },
             {
                 "countryCode": "DK",
@@ -1173,11 +1173,11 @@
                 "capital": "Copenhagen",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "43094.0",
+                "areaInSqKm": 43094.0,
                 "languages": "da-DK,en,fo,de-DK",
                 "isoAlpha3": "DNK",
                 "geonameId": "2623032",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
             },
             {
                 "countryCode": "DM",
@@ -1193,11 +1193,11 @@
                 "capital": "Roseau",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "754.0",
+                "areaInSqKm": 754.0,
                 "languages": "en-DM",
                 "isoAlpha3": "DMA",
                 "geonameId": "3575830",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
             },
             {
                 "countryCode": "DO",
@@ -1213,11 +1213,11 @@
                 "capital": "Santo Domingo",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "48730.0",
+                "areaInSqKm": 48730.0,
                 "languages": "es-DO",
                 "isoAlpha3": "DOM",
                 "geonameId": "3508796",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
             },
             {
                 "countryCode": "DZ",
@@ -1233,11 +1233,11 @@
                 "capital": "Algiers",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "2381740.0",
+                "areaInSqKm": 2381740.0,
                 "languages": "ar-ع-DZ",
                 "isoAlpha3": "DZA",
                 "geonameId": "2589581",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
             },
             {
                 "countryCode": "EC",
@@ -1253,11 +1253,11 @@
                 "capital": "Quito",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "283560.0",
+                "areaInSqKm": 283560.0,
                 "languages": "es-EC",
                 "isoAlpha3": "ECU",
                 "geonameId": "3658394",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
             },
             {
                 "countryCode": "EE",
@@ -1273,11 +1273,11 @@
                 "capital": "Tallinn",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "45226.0",
+                "areaInSqKm": 45226.0,
                 "languages": "et,ru",
                 "isoAlpha3": "EST",
                 "geonameId": "453733",
-	    "flagURL":""
+	    "flagURL":"https://commons.wikimedia.org/wiki/Eesti#/media/File:Flag_of_Estonia.svg"
             },
             {
                 "countryCode": "EG",
@@ -1293,11 +1293,11 @@
                 "capital": "Cairo",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1001450.0",
+                "areaInSqKm": 1001450.0,
                 "languages": "ar-ع-EG,en,fr",
                 "isoAlpha3": "EGY",
                 "geonameId": "357994",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
             },
             {
                 "countryCode": "EH",
@@ -1313,11 +1313,11 @@
                 "capital": "Laâyoune / El Aaiún",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "266000.0",
+                "areaInSqKm": 266000.0,
                 "languages": "ar,mey",
                 "isoAlpha3": "ESH",
                 "geonameId": "2461445",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Western_Sahara.png"
             },
             {
                 "countryCode": "ER",
@@ -1333,11 +1333,11 @@
                 "capital": "Asmara",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "121320.0",
+                "areaInSqKm": 121320.0,
                 "languages": "aa-ER,ar,tig,kun,ti-ER",
                 "isoAlpha3": "ERI",
                 "geonameId": "338010",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
             },
             {
                 "countryCode": "ES",
@@ -1353,11 +1353,11 @@
                 "capital": "Madrid",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "504782.0",
+                "areaInSqKm": 504782.0,
                 "languages": "es-ES,ca,gl,eu,oc",
                 "isoAlpha3": "ESP",
                 "geonameId": "2510769",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
             },
             {
                 "countryCode": "ET",
@@ -1373,7 +1373,7 @@
                 "capital": "Addis Ababa",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1127127.0",
+                "areaInSqKm": 1127127.0,
                 "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
                 "isoAlpha3": "ETH",
                 "geonameId": "337996",
@@ -1393,11 +1393,11 @@
                 "capital": "Helsinki",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "337030.0",
+                "areaInSqKm": 337030.0,
                 "languages": "fi-FI,sv-FI,smn",
                 "isoAlpha3": "FIN",
                 "geonameId": "660013",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
             },
             {
                 "countryCode": "FJ",
@@ -1413,11 +1413,11 @@
                 "capital": "Suva",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "18270.0",
+                "areaInSqKm": 18270.0,
                 "languages": "en-FJ,fj",
                 "isoAlpha3": "FJI",
                 "geonameId": "2205218",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/44/Flag_of_Fiji_1924-1970.svg"
             },
             {
                 "countryCode": "FK",
@@ -1433,11 +1433,11 @@
                 "capital": "Stanley",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "12173.0",
+                "areaInSqKm": 12173.0,
                 "languages": "en-FK",
                 "isoAlpha3": "FLK",
                 "geonameId": "3474414",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg"
             },
             {
                 "countryCode": "FM",
@@ -1453,7 +1453,7 @@
                 "capital": "Palikir",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "702.0",
+                "areaInSqKm": 702.0,
                 "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
                 "isoAlpha3": "FSM",
                 "geonameId": "2081918",
@@ -1473,11 +1473,11 @@
                 "capital": "Tórshavn",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "1399.0",
+                "areaInSqKm": 1399.0,
                 "languages": "fo,da-FO",
                 "isoAlpha3": "FRO",
                 "geonameId": "2622320",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg"
             },
             {
                 "countryCode": "FR",
@@ -1493,11 +1493,11 @@
                 "capital": "Paris",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "547030.0",
+                "areaInSqKm": 547030.0,
                 "languages": "fr-FR,frp,br,co,ca,eu,oc",
                 "isoAlpha3": "FRA",
                 "geonameId": "3017382",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
             },
             {
                 "countryCode": "GA",
@@ -1513,11 +1513,11 @@
                 "capital": "Libreville",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "267667.0",
+                "areaInSqKm": 267667.0,
                 "languages": "fr-GA",
                 "isoAlpha3": "GAB",
                 "geonameId": "2400553",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
             },
             {
                 "countryCode": "GB",
@@ -1533,11 +1533,11 @@
                 "capital": "London",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "244820.0",
+                "areaInSqKm": 244820.0,
                 "languages": "en-GB,cy-GB,gd",
                 "isoAlpha3": "GBR",
                 "geonameId": "2635167",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
             },
             {
                 "countryCode": "GD",
@@ -1553,11 +1553,11 @@
                 "capital": "St. George's",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "344.0",
+                "areaInSqKm": 344.0,
                 "languages": "en-GD",
                 "isoAlpha3": "GRD",
                 "geonameId": "3580239",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg"
             },
             {
                 "countryCode": "GE",
@@ -1573,11 +1573,11 @@
                 "capital": "Tbilisi",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "69700.0",
+                "areaInSqKm": 69700.0,
                 "languages": "ka,ru,hy,az",
                 "isoAlpha3": "GEO",
                 "geonameId": "614540",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Georgia_%28U.S._state%29.svg"
             },
             {
                 "countryCode": "GF",
@@ -1593,11 +1593,11 @@
                 "capital": "Cayenne",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "91000.0",
+                "areaInSqKm": 91000.0,
                 "languages": "fr-GF",
                 "isoAlpha3": "GUF",
                 "geonameId": "3381670",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_French_Guiana.svg"
             },
             {
                 "countryCode": "GG",
@@ -1613,11 +1613,11 @@
                 "capital": "St Peter Port",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "78.0",
+                "areaInSqKm": 78.0,
                 "languages": "en,fr",
                 "isoAlpha3": "GGY",
                 "geonameId": "3042362",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg"
             },
             {
                 "countryCode": "GH",
@@ -1633,11 +1633,11 @@
                 "capital": "Accra",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "239460.0",
+                "areaInSqKm": 239460.0,
                 "languages": "en-GH,ak,ee,tw",
                 "isoAlpha3": "GHA",
                 "geonameId": "2300660",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
             },
             {
                 "countryCode": "GI",
@@ -1653,11 +1653,11 @@
                 "capital": "Gibraltar",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "6.5",
+                "areaInSqKm": 6.5,
                 "languages": "en-GI,es,it,pt",
                 "isoAlpha3": "GIB",
                 "geonameId": "2411586",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg"
             },
             {
                 "countryCode": "GL",
@@ -1673,11 +1673,11 @@
                 "capital": "Nuuk",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "2166086.0",
+                "areaInSqKm": 2166086.0,
                 "languages": "kl,da-GL,en",
                 "isoAlpha3": "GRL",
                 "geonameId": "3425505",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
             },
             {
                 "countryCode": "GM",
@@ -1693,11 +1693,11 @@
                 "capital": "Bathurst",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "11300.0",
+                "areaInSqKm": 11300.0,
                 "languages": "en-GM,mnk,wof,wo,ff",
                 "isoAlpha3": "GMB",
                 "geonameId": "2413451",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
             },
             {
                 "countryCode": "GN",
@@ -1713,11 +1713,11 @@
                 "capital": "Conakry",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "245857.0",
+                "areaInSqKm": 245857.0,
                 "languages": "fr-GN",
                 "isoAlpha3": "GIN",
                 "geonameId": "2420477",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"
             },
             {
                 "countryCode": "GP",
@@ -1733,7 +1733,7 @@
                 "capital": "Basse-Terre",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "1780.0",
+                "areaInSqKm": 1780.0,
                 "languages": "fr-GP",
                 "isoAlpha3": "GLP",
                 "geonameId": "3579143",
@@ -1753,11 +1753,11 @@
                 "capital": "Malabo",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "28051.0",
+                "areaInSqKm": 28051.0,
                 "languages": "es-GQ,fr",
                 "isoAlpha3": "GNQ",
                 "geonameId": "2309096",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
             },
             {
                 "countryCode": "GR",
@@ -1773,11 +1773,11 @@
                 "capital": "Athens",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "131940.0",
+                "areaInSqKm": 131940.0,
                 "languages": "el-GR,en,fr",
                 "isoAlpha3": "GRC",
                 "geonameId": "390903",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
             },
             {
                 "countryCode": "GS",
@@ -1793,11 +1793,11 @@
                 "capital": "Grytviken",
                 "continentName": "Antarctica",
                 "continent": "AN",
-                "areaInSqKm": "3903.0",
+                "areaInSqKm": 3903.0,
                 "languages": "en",
                 "isoAlpha3": "SGS",
                 "geonameId": "3474415",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg"
             },
             {
                 "countryCode": "GT",
@@ -1813,11 +1813,11 @@
                 "capital": "Guatemala City",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "108890.0",
+                "areaInSqKm": 108890.0,
                 "languages": "es-GT",
                 "isoAlpha3": "GTM",
                 "geonameId": "3595528",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandera_5_Rep%C3%BAblica_de_Guatemala_31_Mayo_1858.png"
             },
             {
                 "countryCode": "GU",
@@ -1833,11 +1833,11 @@
                 "capital": "Hagåtña",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "549.0",
+                "areaInSqKm": 549.0,
                 "languages": "en-GU,ch-GU",
                 "isoAlpha3": "GUM",
                 "geonameId": "4043988",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg"
             },
             {
                 "countryCode": "GW",
@@ -1853,11 +1853,11 @@
                 "capital": "Bissau",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "36120.0",
+                "areaInSqKm": 36120.0,
                 "languages": "pt-GW,pov",
                 "isoAlpha3": "GNB",
                 "geonameId": "2372248",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg"
             },
             {
                 "countryCode": "GY",
@@ -1873,11 +1873,11 @@
                 "capital": "Georgetown",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "214970.0",
+                "areaInSqKm": 214970.0,
                 "languages": "en-GY",
                 "isoAlpha3": "GUY",
                 "geonameId": "3378535",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
             },
             {
                 "countryCode": "HK",
@@ -1893,11 +1893,11 @@
                 "capital": "Hong Kong",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "1092.0",
+                "areaInSqKm": 1092.0,
                 "languages": "zh-HK,yue,zh,en",
                 "isoAlpha3": "HKG",
                 "geonameId": "1819730",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg"
             },
             {
                 "countryCode": "HM",
@@ -1913,7 +1913,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "continent": "AN",
-                "areaInSqKm": "412.0",
+                "areaInSqKm": 412.0,
                 "languages": "",
                 "isoAlpha3": "HMD",
                 "geonameId": "1547314",
@@ -1933,11 +1933,11 @@
                 "capital": "Tegucigalpa",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "112090.0",
+                "areaInSqKm": 112090.0,
                 "languages": "es-HN",
                 "isoAlpha3": "HND",
                 "geonameId": "3608932",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
             },
             {
                 "countryCode": "HR",
@@ -1953,11 +1953,11 @@
                 "capital": "Zagreb",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "56542.0",
+                "areaInSqKm": 56542.0,
                 "languages": "hr-HR,sr",
                 "isoAlpha3": "HRV",
                 "geonameId": "3202326",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Civil_Ensign_of_Croatia.svg"
             },
             {
                 "countryCode": "HT",
@@ -1973,11 +1973,11 @@
                 "capital": "Port-au-Prince",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "27750.0",
+                "areaInSqKm": 27750.0,
                 "languages": "ht,fr-HT",
                 "isoAlpha3": "HTI",
                 "geonameId": "3723988",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
             },
             {
                 "countryCode": "HU",
@@ -1993,11 +1993,11 @@
                 "capital": "Budapest",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "93030.0",
+                "areaInSqKm": 93030.0,
                 "languages": "hu-HU",
                 "isoAlpha3": "HUN",
                 "geonameId": "719819",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
             },
             {
                 "countryCode": "ID",
@@ -2013,11 +2013,11 @@
                 "capital": "Jakarta",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "1919440.0",
+                "areaInSqKm": 1919440.0,
                 "languages": "id,en,nl,jv",
                 "isoAlpha3": "IDN",
                 "geonameId": "1643084",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
             },
             {
                 "countryCode": "IE",
@@ -2033,11 +2033,11 @@
                 "capital": "Dublin",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "70280.0",
+                "areaInSqKm": 70280.0,
                 "languages": "en-IE,ga-IE",
                 "isoAlpha3": "IRL",
                 "geonameId": "2963597",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_a_Unified_Ireland_%28Proposal%29.png"
             },
             {
                 "countryCode": "IL",
@@ -2053,11 +2053,11 @@
                 "capital": "",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "20770.0",
+                "areaInSqKm": 20770.0,
                 "languages": "he,ar-ع-IL,en-IL,",
                 "isoAlpha3": "ISR",
                 "geonameId": "294640",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
             },
             {
                 "countryCode": "IM",
@@ -2073,11 +2073,11 @@
                 "capital": "Douglas",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "572.0",
+                "areaInSqKm": 572.0,
                 "languages": "en,gv",
                 "isoAlpha3": "IMN",
                 "geonameId": "3042225",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_the_Isle_of_Mann.svg"
             },
             {
                 "countryCode": "IN",
@@ -2093,11 +2093,11 @@
                 "capital": "New Delhi",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "3287590.0",
+                "areaInSqKm": 3287590.0,
                 "Languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
                 "isoAlpha3": "IND",
                 "geonameId": "1269750",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
             },
             {
                 "countryCode": "IO",
@@ -2113,11 +2113,11 @@
                 "capital": "",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "60.0",
+                "areaInSqKm": 60.0,
                 "languages": "en-IO",
                 "isoAlpha3": "IOT",
                 "geonameId": "1282588",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_the_British_Indian_Ocean_Territory.svg"
             },
             {
                 "countryCode": "IQ",
@@ -2133,11 +2133,11 @@
                 "capital": "Baghdad",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "437072.0",
+                "areaInSqKm": 437072.0,
                 "languages": "ar-ع-IQ,ku,hy",
                 "isoAlpha3": "IRQ",
                 "geonameId": "99237",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
             },
             {
                 "countryCode": "IR",
@@ -2153,11 +2153,11 @@
                 "capital": "Tehran",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "1648000.0",
+                "areaInSqKm": 1648000.0,
                 "languages": "fa-IR,ku",
                 "isoAlpha3": "IRN",
                 "geonameId": "130758",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
             },
             {
                 "countryCode": "IS",
@@ -2173,11 +2173,11 @@
                 "capital": "Reykjavik",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "103000.0",
+                "areaInSqKm": 103000.0,
                 "languages": "is,en,de,da,sv,no",
                 "isoAlpha3": "ISL",
                 "geonameId": "2629691",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
             },
             {
                 "countryCode": "IT",
@@ -2193,11 +2193,11 @@
                 "capital": "Rome",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "301230.0",
+                "areaInSqKm": 301230.0,
                 "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
                 "isoAlpha3": "ITA",
                 "geonameId": "3175395",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
             },
             {
                 "countryCode": "JE",
@@ -2213,11 +2213,11 @@
                 "capital": "Saint Helier",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "116.0",
+                "areaInSqKm": 116.0,
                 "languages": "en,pt",
                 "isoAlpha3": "JEY",
                 "geonameId": "3042142",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg"
             },
             {
                 "countryCode": "JM",
@@ -2233,11 +2233,11 @@
                 "capital": "Kingston",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "10991.0",
+                "areaInSqKm": 10991.0,
                 "languages": "en-JM",
                 "isoAlpha3": "JAM",
                 "geonameId": "3489940",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
             },
             {
                 "countryCode": "JO",
@@ -2253,11 +2253,11 @@
                 "capital": "Amman",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "92300.0",
+                "areaInSqKm": 92300.0,
                 "languages": "ar-ع-JO,en",
                 "isoAlpha3": "JOR",
                 "geonameId": "248816",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
             },
             {
                 "countryCode": "JP",
@@ -2273,11 +2273,11 @@
                 "capital": "Tokyo",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "377835.0",
+                "areaInSqKm": 377835.0,
                 "languages": "ja",
                 "isoAlpha3": "JPN",
                 "geonameId": "1861060",
-	    "flagURL":""
+"flagURL":"https://commons.wikimedia.org/wiki/%E6%97%A5%E6%9C%AC#/media/File:Flag_of_Japan.svg"
             },
             {
                 "countryCode": "KE",
@@ -2293,11 +2293,11 @@
                 "capital": "Nairobi",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "582650.0",
+                "areaInSqKm": 582650.0,
                 "languages": "en-KE,sw-KE",
                 "isoAlpha3": "KEN",
                 "geonameId": "192950",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
             },
             {
                 "countryCode": "KG",
@@ -2313,11 +2313,11 @@
                 "capital": "Bishkek",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "198500.0",
+                "areaInSqKm": 198500.0,
                 "languages": "ky,uz,ru",
                 "isoAlpha3": "KGZ",
                 "geonameId": "1527747",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
             },
             {
                 "countryCode": "KH",
@@ -2337,7 +2337,7 @@
                 "languages": "km,fr,en",
                 "isoAlpha3": "KHM",
                 "geonameId": "1831722",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
             },
             {
                 "countryCode": "KI",
@@ -2353,11 +2353,11 @@
                 "capital": "Tarawa",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "811.0",
+                "areaInSqKm": 811.0,
                 "languages": "en-KI,gil",
                 "isoAlpha3": "KIR",
                 "geonameId": "4030945",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
             },
             {
                 "countryCode": "KM",
@@ -2373,11 +2373,11 @@
                 "capital": "Moroni",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "2170.0",
+                "areaInSqKm": 2170.0,
                 "languages": "ar,fr-KM",
                 "isoAlpha3": "COM",
                 "geonameId": "921929",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
             },
             {
                 "countryCode": "KN",
@@ -2393,11 +2393,11 @@
                 "capital": "Basseterre",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "261.0",
+                "areaInSqKm": 261.0,
                 "languages": "en-KN",
                 "isoAlpha3": "KNA",
                 "geonameId": "3575174",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
             },
             {
                 "countryCode": "KP",
@@ -2413,11 +2413,11 @@
                 "capital": "Pyongyang",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "120540.0",
+                "areaInSqKm": 120540.0,
                 "languages": "ko-KP",
                 "isoAlpha3": "PRK",
                 "geonameId": "1873107",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg"
             },
             {
                 "countryCode": "KR",
@@ -2433,11 +2433,11 @@
                 "capital": "Seoul",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "98480.0",
+                "areaInSqKm": 98480.0,
                 "languages": "ko-KR,en",
                 "isoAlpha3": "KOR",
                 "geonameId": "1835841",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
             },
             {
                 "countryCode": "KW",
@@ -2453,11 +2453,11 @@
                 "capital": "Kuwait City",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "17820.0",
+                "areaInSqKm": 17820.0,
                 "languages": "ar-ع-KW,en",
                 "isoAlpha3": "KWT",
                 "geonameId": "285570",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg"
             },
             {
                 "countryCode": "KY",
@@ -2473,11 +2473,11 @@
                 "capital": "George Town",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "262.0",
+                "areaInSqKm": 262.0,
                 "languages": "en-KY",
                 "isoAlpha3": "CYM",
                 "geonameId": "3580718",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg"
             },
             {
                 "countryCode": "KZ",
@@ -2493,11 +2493,11 @@
                 "capital": "Astana",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "2717300.0",
+                "areaInSqKm": 2717300.0,
                 "languages": "kk,ru",
                 "isoAlpha3": "KAZ",
                 "geonameId": "1522867",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
             },
             {
                 "countryCode": "LA",
@@ -2513,11 +2513,11 @@
                 "capital": "Vientiane",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "236800.0",
+                "areaInSqKm": 236800.0,
                 "languages": "lo,fr,en",
                 "isoAlpha3": "LAO",
                 "geonameId": "1655842",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
             },
             {
                 "countryCode": "LB",
@@ -2533,11 +2533,11 @@
                 "capital": "Beirut",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "10400.0",
+                "areaInSqKm": 10400.0,
                 "languages": "ar-ع-LB,fr-LB,en,hy",
                 "isoAlpha3": "LBN",
                 "geonameId": "272103",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
             },
             {
                 "countryCode": "LC",
@@ -2553,11 +2553,11 @@
                 "capital": "Castries",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "616.0",
+                "areaInSqKm": 616.0,
                 "languages": "en-LC",
                 "isoAlpha3": "LCA",
                 "geonameId": "3576468",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
             },
             {
                 "countryCode": "LI",
@@ -2573,11 +2573,11 @@
                 "capital": "Vaduz",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "160.0",
+                "areaInSqKm": 160.0,
                 "languages": "de-LI",
                 "isoAlpha3": "LIE",
                 "geonameId": "3042058",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
             },
             {
                 "countryCode": "LK",
@@ -2593,11 +2593,11 @@
                 "capital": "Colombo",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "65610.0",
+                "areaInSqKm": 65610.0,
                 "languages": "si,ta,en",
                 "isoAlpha3": "LKA",
                 "geonameId": "1227603",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
             },
             {
                 "countryCode": "LR",
@@ -2613,11 +2613,11 @@
                 "capital": "Monrovia",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "111370.0",
+                "areaInSqKm": 111370.0,
                 "languages": "en-LR",
                 "isoAlpha3": "LBR",
                 "geonameId": "2275384",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg"
             },
             {
                 "countryCode": "LS",
@@ -2633,11 +2633,11 @@
                 "capital": "Maseru",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "30355.0",
+                "areaInSqKm": 30355.0,
                 "languages": "en-LS,st,zu,xh",
                 "isoAlpha3": "LSO",
                 "geonameId": "932692",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"
             },
             {
                 "countryCode": "LT",
@@ -2653,11 +2653,11 @@
                 "capital": "Vilnius",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "65200.0",
+                "areaInSqKm": 65200.0,
                 "languages": "lt,ru,pl",
                 "isoAlpha3": "LTU",
                 "geonameId": "597427",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
             },
             {
                 "countryCode": "LU",
@@ -2673,11 +2673,11 @@
                 "capital": "Luxembourg",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "2586.0",
+                "areaInSqKm": 2586.0,
                 "languages": "lb,de-LU,fr-LU",
                 "isoAlpha3": "LUX",
                 "geonameId": "2960313",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
             },
             {
                 "countryCode": "LV",
@@ -2693,11 +2693,11 @@
                 "capital": "Riga",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "64589.0",
+                "areaInSqKm": 64589.0,
                 "languages": "lv,ru,lt",
                 "isoAlpha3": "LVA",
                 "geonameId": "458258",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
             },
             {
                 "countryCode": "LY",
@@ -2713,11 +2713,11 @@
                 "capital": "Tripoli",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1759540.0",
+                "areaInSqKm": 1759540.0,
                 "languages": "ar-ع-LY,it,en",
                 "isoAlpha3": "LBY",
                 "geonameId": "2215636",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
             },
             {
                 "countryCode": "MA",
@@ -2733,11 +2733,11 @@
                 "capital": "Rabat",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "446550.0",
+                "areaInSqKm": 446550.0,
                 "languages": "ar-ع-MA,fr",
                 "isoAlpha3": "MAR",
                 "geonameId": "2542007",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
             },
             {
                 "countryCode": "MC",
@@ -2753,11 +2753,11 @@
                 "capital": "Monaco",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "1.95",
+                "areaInSqKm": 1.95,
                 "languages": "fr-MC,en,it",
                 "isoAlpha3": "MCO",
                 "geonameId": "2993457",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
             },
             {
                 "countryCode": "MD",
@@ -2773,11 +2773,11 @@
                 "capital": "Chişinău",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "33843.0",
+                "areaInSqKm": 33843.0,
                 "languages": "ro,ru,gag,tr",
                 "isoAlpha3": "MDA",
                 "geonameId": "617790",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
             },
             {
                 "countryCode": "ME",
@@ -2793,11 +2793,11 @@
                 "capital": "Podgorica",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "14026.0",
+                "areaInSqKm": 14026.0,
                 "languages": "sr,hu,bs,sq,hr,rom",
                 "isoAlpha3": "MNE",
                 "geonameId": "3194884",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
             },
             {
                 "countryCode": "MF",
@@ -2813,7 +2813,7 @@
                 "capital": "Marigot",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "53.0",
+                "areaInSqKm": 53.0,
                 "languages": "fr",
                 "isoAlpha3": "MAF",
                 "geonameId": "3578421",
@@ -2833,11 +2833,10 @@
                 "capital": "Antananarivo",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "587040.0",
+                "areaInSqKm": 587040.0,
                 "languages": "fr-MG,mg",
                 "isoAlpha3": "MDG",
-                "geonameId": "1062947",
-	    "flagURL":""
+                "geonameId": "1062947","flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
             },
             {
                 "countryCode": "MH",
@@ -2853,11 +2852,11 @@
                 "capital": "Majuro",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "181.3",
+                "areaInSqKm": 181.3,
                 "languages": "mh,en-MH",
                 "isoAlpha3": "MHL",
                 "geonameId": "2080185",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg"
             },
             {
                 "countryCode": "MK",
@@ -2873,7 +2872,7 @@
                 "capital": "Skopje",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "25333.0",
+                "areaInSqKm": 25333.0,
                 "languages": "mk,sq,tr,rmm,sr",
                 "isoAlpha3": "MKD",
                 "geonameId": "718075",
@@ -2893,11 +2892,11 @@
                 "capital": "Bamako",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1240000.0",
+                "areaInSqKm": 1240000.0,
                 "languages": "fr-ML,bm",
                 "isoAlpha3": "MLI",
                 "geonameId": "2453866",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg"
             },
             {
                 "countryCode": "MM",
@@ -2913,11 +2912,11 @@
                 "capital": "Naypyitaw",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "678500.0",
+                "areaInSqKm": 678500.0,
                 "languages": "my",
                 "isoAlpha3": "MMR",
                 "geonameId": "1327865",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/82/Myanmar_%28Burma%29_Air_force_fin_flash.svg"
             },
             {
                 "countryCode": "MN",
@@ -2933,11 +2932,11 @@
                 "capital": "Ulan Bator",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "1565000.0",
+                "areaInSqKm": 1565000.0,
                 "languages": "mn,ru",
                 "isoAlpha3": "MNG",
                 "geonameId": "2029969",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
             },
             {
                 "countryCode": "MO",
@@ -2953,11 +2952,11 @@
                 "capital": "Macao",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "254.0",
+                "areaInSqKm": 254.0,
                 "languages": "zh,zh-MO,pt",
                 "isoAlpha3": "MAC",
                 "geonameId": "1821275",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg"
             },
             {
                 "countryCode": "MP",
@@ -2973,7 +2972,7 @@
                 "capital": "Saipan",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "477.0",
+                "areaInSqKm": 477.0,
                 "languages": "fil,tl,zh,ch-MP,en-MP",
                 "isoAlpha3": "MNP",
                 "geonameId": "4041468",
@@ -2993,7 +2992,7 @@
                 "capital": "Fort-de-France",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "1100.0",
+                "areaInSqKm": 1100.0,
                 "languages": "fr-MQ",
                 "isoAlpha3": "MTQ",
                 "geonameId": "3570311",
@@ -3013,11 +3012,11 @@
                 "capital": "Nouakchott",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1030700.0",
+                "areaInSqKm": 1030700.0,
                 "languages": "ar-ع-MR,fuc,snk,fr,mey,wo",
                 "isoAlpha3": "MRT",
                 "geonameId": "2378080",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
             },
             {
                 "countryCode": "MS",
@@ -3033,11 +3032,11 @@
                 "capital": "Plymouth",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "102.0",
+                "areaInSqKm": 102.0,
                 "languages": "en-MS",
                 "isoAlpha3": "MSR",
                 "geonameId": "3578097",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg"
             },
             {
                 "countryCode": "MT",
@@ -3053,11 +3052,11 @@
                 "capital": "Valletta",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "316.0",
+                "areaInSqKm": 316.0,
                 "languages": "mt,en-MT",
                 "isoAlpha3": "MLT",
                 "geonameId": "2562770",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
             },
             {
                 "countryCode": "MU",
@@ -3073,11 +3072,11 @@
                 "capital": "Port Louis",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "2040.0",
+                "areaInSqKm": 2040.0,
                 "languages": "en-MU,bho,fr",
                 "isoAlpha3": "MUS",
                 "geonameId": "934292",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
             },
             {
                 "countryCode": "MV",
@@ -3093,11 +3092,11 @@
                 "capital": "Malé",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "300.0",
+                "areaInSqKm": 300.0,
                 "languages": "dv,en",
                 "isoAlpha3": "MDV",
                 "geonameId": "1282028",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
             },
             {
                 "countryCode": "MW",
@@ -3113,11 +3112,11 @@
                 "capital": "Lilongwe",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "118480.0",
+                "areaInSqKm": 118480.0,
                 "languages": "ny,yao,tum,swk",
                 "isoAlpha3": "MWI",
                 "geonameId": "927384",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
             },
             {
                 "countryCode": "MX",
@@ -3133,11 +3132,11 @@
                 "capital": "Mexico City",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "1972550.0",
+                "areaInSqKm": 1972550.0,
                 "languages": "es-MX",
                 "isoAlpha3": "MEX",
                 "geonameId": "3996063",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
             },
             {
                 "countryCode": "MY",
@@ -3153,11 +3152,11 @@
                 "capital": "Kuala Lumpur",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "329750.0",
+                "areaInSqKm": 329750.0,
                 "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
                 "isoAlpha3": "MYS",
                 "geonameId": "1733045",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
             },
             {
                 "countryCode": "MZ",
@@ -3173,11 +3172,11 @@
                 "capital": "Maputo",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "801590.0",
+                "areaInSqKm": 801590.0,
                 "languages": "pt-MZ,vmw",
                 "isoAlpha3": "MOZ",
                 "geonameId": "1036973",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
             },
             {
                 "countryCode": "NA",
@@ -3193,11 +3192,11 @@
                 "capital": "Windhoek",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "825418.0",
+                "areaInSqKm": 825418.0,
                 "languages": "en-NA,af,de,hz,naq",
                 "isoAlpha3": "NAM",
                 "geonameId": "3355338",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
             },
             {
                 "countryCode": "NC",
@@ -3213,7 +3212,7 @@
                 "capital": "Noumea",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "19060.0",
+                "areaInSqKm": 19060.0,
                 "languages": "fr-NC",
                 "isoAlpha3": "NCL",
                 "geonameId": "2139685",
@@ -3233,11 +3232,11 @@
                 "capital": "Niamey",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1267000.0",
+                "areaInSqKm": 1267000.0,
                 "languages": "fr-NE,ha,kr,dje",
                 "isoAlpha3": "NER",
                 "geonameId": "2440476",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
             },
             {
                 "countryCode": "NF",
@@ -3253,7 +3252,7 @@
                 "capital": "Kingston",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "34.6",
+                "areaInSqKm": 34.6,
                 "languages": "en-NF",
                 "isoAlpha3": "NFK",
                 "geonameId": "2155115",
@@ -3273,11 +3272,11 @@
                 "capital": "Abuja",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "923768.0",
+                "areaInSqKm": 923768.0,
                 "languages": "en-NG,ha,yo,ig,ff",
                 "isoAlpha3": "NGA",
                 "geonameId": "2328926",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
             },
             {
                 "countryCode": "NI",
@@ -3293,11 +3292,11 @@
                 "capital": "Managua",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "129494.0",
+                "areaInSqKm": 129494.0,
                 "languages": "es-NI,en",
                 "isoAlpha3": "NIC",
                 "geonameId": "3617476",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
             },
             {
                 "countryCode": "NL",
@@ -3313,11 +3312,11 @@
                 "capital": "Amsterdam",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "41526.0",
+                "areaInSqKm": 41526.0,
                 "languages": "nl-NL,fy-NL",
                 "isoAlpha3": "NLD",
                 "geonameId": "2750405",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
             },
             {
                 "countryCode": "NO",
@@ -3333,11 +3332,11 @@
                 "capital": "Oslo",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "324220.0",
+                "areaInSqKm": 324220.0,
                 "languages": "no,nb,nn,se,fi",
                 "isoAlpha3": "NOR",
                 "geonameId": "3144096",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
             },
             {
                 "countryCode": "NP",
@@ -3353,11 +3352,11 @@
                 "capital": "Kathmandu",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "140800.0",
+                "areaInSqKm": 140800.0,
                 "languages": "ne,en",
                 "isoAlpha3": "NPL",
                 "geonameId": "1282988",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
             },
             {
                 "countryCode": "NR",
@@ -3373,11 +3372,11 @@
                 "capital": "Yaren",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "21.0",
+                "areaInSqKm": 21.0,
                 "languages": "na,en-NR",
                 "isoAlpha3": "NRU",
                 "geonameId": "2110425",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
             },
             {
                 "countryCode": "NU",
@@ -3393,11 +3392,11 @@
                 "capital": "Alofi",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "260.0",
+                "areaInSqKm": 260.0,
                 "languages": "niu,en-NU",
                 "isoAlpha3": "NIU",
                 "geonameId": "4036232",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg"
             },
             {
                 "countryCode": "NZ",
@@ -3413,7 +3412,7 @@
                 "capital": "Wellington",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "268680.0",
+                "areaInSqKm": 268680.0,
                 "languages": "en-NZ,mi",
                 "isoAlpha3": "NZL",
                 "geonameId": "2186224",
@@ -3433,11 +3432,11 @@
                 "capital": "Muscat",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "212460.0",
+                "areaInSqKm": 212460.0,
                 "languages": "ar-ع-OM,en,bal,ur",
                 "isoAlpha3": "OMN",
                 "geonameId": "286963",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
             },
             {
                 "countryCode": "PA",
@@ -3453,11 +3452,11 @@
                 "capital": "Panama City",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "78200.0",
+                "areaInSqKm": 78200.0,
                 "languages": "es-PA,en",
                 "isoAlpha3": "PAN",
                 "geonameId": "3703430",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
             },
             {
                 "countryCode": "PE",
@@ -3473,11 +3472,11 @@
                 "capital": "Lima",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "1285220.0",
+                "areaInSqKm": 1285220.0,
                 "languages": "es-PE,qu,ay",
                 "isoAlpha3": "PER",
                 "geonameId": "3932488",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
             },
             {
                 "countryCode": "PF",
@@ -3493,11 +3492,11 @@
                 "capital": "Papeete",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "4167.0",
+                "areaInSqKm": 4167.0,
                 "languages": "fr-PF,ty",
                 "isoAlpha3": "PYF",
                 "geonameId": "4030656",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
             },
             {
                 "countryCode": "PG",
@@ -3513,11 +3512,11 @@
                 "capital": "Port Moresby",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "462840.0",
+                "areaInSqKm": 462840.0,
                 "languages": "en-PG,ho,meu,tpi",
                 "isoAlpha3": "PNG",
                 "geonameId": "2088628",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
             },
             {
                 "countryCode": "PH",
@@ -3533,11 +3532,11 @@
                 "capital": "Manila",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "300000.0",
+                "areaInSqKm": 300000.0,
                 "languages": "tl,en-PH,fil",
                 "isoAlpha3": "PHL",
                 "geonameId": "1694008",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
             },
             {
                 "countryCode": "PK",
@@ -3553,11 +3552,11 @@
                 "capital": "Islamabad",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "803940.0",
+                "areaInSqKm": 803940.0,
                 "languages": "ur-PK,en-PK,pa,sd,ps,brh",
                 "isoAlpha3": "PAK",
                 "geonameId": "1168579",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
             },
             {
                 "countryCode": "PL",
@@ -3573,11 +3572,11 @@
                 "capital": "Warsaw",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "312685.0",
+                "areaInSqKm": 312685.0,
                 "languages": "pl",
                 "isoAlpha3": "POL",
                 "geonameId": "798544",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
             },
             {
                 "countryCode": "PM",
@@ -3593,11 +3592,11 @@
                 "capital": "Saint-Pierre",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "242.0",
+                "areaInSqKm": 242.0,
                 "languages": "fr-PM",
                 "isoAlpha3": "SPM",
                 "geonameId": "3424932",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg"
             },
             {
                 "countryCode": "PN",
@@ -3613,11 +3612,11 @@
                 "capital": "Adamstown",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "47.0",
+                "areaInSqKm": 47.0,
                 "languages": "en-PN",
                 "isoAlpha3": "PCN",
                 "geonameId": "4030699",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg"
             },
             {
                 "countryCode": "PR",
@@ -3633,11 +3632,11 @@
                 "capital": "San Juan",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "9104.0",
+                "areaInSqKm": 9104.0,
                 "languages": "en-PR,es-PR",
                 "isoAlpha3": "PRI",
                 "geonameId": "4566966",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg"
             },
             {
                 "countryCode": "PS",
@@ -3653,7 +3652,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "5970.0",
+                "areaInSqKm": 5970.0,
                 "languages": "ar-ع-PS",
                 "isoAlpha3": "PSE",
                 "geonameId": "6254930",
@@ -3673,11 +3672,11 @@
                 "capital": "Lisbon",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "92391.0",
+                "areaInSqKm": 92391.0,
                 "languages": "pt-PT,mwl",
                 "isoAlpha3": "PRT",
                 "geonameId": "2264397",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
             },
             {
                 "countryCode": "PW",
@@ -3693,11 +3692,11 @@
                 "capital": "Melekeok",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "458.0",
+                "areaInSqKm": 458.0,
                 "languages": "pau,sov,en-PW,tox,ja,fil,zh",
                 "isoAlpha3": "PLW",
                 "geonameId": "1559582",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
             },
             {
                 "countryCode": "PY",
@@ -3713,11 +3712,11 @@
                 "capital": "Asunción",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "406750.0",
+                "areaInSqKm": 406750.0,
                 "languages": "es-PY,gn",
                 "isoAlpha3": "PRY",
                 "geonameId": "3437598",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
             },
             {
                 "countryCode": "QA",
@@ -3733,11 +3732,11 @@
                 "capital": "Doha",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "11437.0",
+                "areaInSqKm": 11437.0,
                 "languages": "ar-ع-QA,es",
                 "isoAlpha3": "QAT",
                 "geonameId": "289688",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
             },
             {
                 "countryCode": "RE",
@@ -3753,7 +3752,7 @@
                 "capital": "Saint-Denis",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "2517.0",
+                "areaInSqKm": 2517.0,
                 "languages": "fr-RE",
                 "isoAlpha3": "REU",
                 "geonameId": "935317",
@@ -3773,11 +3772,11 @@
                 "capital": "Bucharest",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "237500.0",
+                "areaInSqKm": 237500.0,
                 "languages": "ro,hu,rom",
                 "isoAlpha3": "ROU",
                 "geonameId": "798549",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
             },
             {
                 "countryCode": "RS",
@@ -3793,11 +3792,11 @@
                 "capital": "Belgrade",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "88361.0",
+                "areaInSqKm": 88361.0,
                 "languages": "sr,hu,bs,rom",
                 "isoAlpha3": "SRB",
                 "geonameId": "6290252",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
             },
             {
                 "countryCode": "RU",
@@ -3813,11 +3812,11 @@
                 "capital": "Moscow",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "1.71E7",
+                "areaInSqKm": 1.71E7,
                 "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
                 "isoAlpha3": "RUS",
                 "geonameId": "2017370",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
             },
             {
                 "countryCode": "RW",
@@ -3833,11 +3832,11 @@
                 "capital": "Kigali",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "26338.0",
+                "areaInSqKm": 26338.0,
                 "languages": "rw,en-RW,fr-RW,sw",
                 "isoAlpha3": "RWA",
                 "geonameId": "49518",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
             },
             {
                 "countryCode": "SA",
@@ -3853,11 +3852,11 @@
                 "capital": "Riyadh",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "1960582.0",
+                "areaInSqKm": 1960582.0,
                 "languages": "ar-ع-SA",
                 "isoAlpha3": "SAU",
                 "geonameId": "102358",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
             },
             {
                 "countryCode": "SB",
@@ -3873,7 +3872,7 @@
                 "capital": "Honiara",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "28450.0",
+                "areaInSqKm": 28450.0,
                 "languages": "en-SB,tpi",
                 "isoAlpha3": "SLB",
                 "geonameId": "2103350",
@@ -3893,11 +3892,11 @@
                 "capital": "Victoria",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "455.0",
+                "areaInSqKm": 455.0,
                 "languages": "en-SC,fr-SC",
                 "isoAlpha3": "SYC",
                 "geonameId": "241170",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
             },
             {
                 "countryCode": "SD",
@@ -3913,11 +3912,11 @@
                 "capital": "Khartoum",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1861484.0",
+                "areaInSqKm": 1861484.0,
                 "languages": "ar-ع-SD,en,fia",
                 "isoAlpha3": "SDN",
                 "geonameId": "366755",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Sudan.png"
             },
             {
                 "countryCode": "SE",
@@ -3933,11 +3932,11 @@
                 "capital": "Stockholm",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "449964.0",
+                "areaInSqKm": 449964.0,
                 "languages": "sv-SE,se,sma,fi-SE",
                 "isoAlpha3": "SWE",
                 "geonameId": "2661886",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
             },
             {
                 "countryCode": "SG",
@@ -3953,11 +3952,11 @@
                 "capital": "Singapore",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "692.7",
+                "areaInSqKm": 692.7,
                 "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
                 "isoAlpha3": "SGP",
                 "geonameId": "1880251",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
             },
             {
                 "countryCode": "SH",
@@ -3973,11 +3972,11 @@
                 "capital": "Jamestown",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "410.0",
+                "areaInSqKm": 410.0,
                 "languages": "en-SH",
                 "isoAlpha3": "SHN",
                 "geonameId": "3370751",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg"
             },
             {
                 "countryCode": "SI",
@@ -3993,11 +3992,11 @@
                 "capital": "Ljubljana",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "20273.0",
+                "areaInSqKm": 20273.0,
                 "languages": "sl,sh",
                 "isoAlpha3": "SVN",
                 "geonameId": "3190538",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
             },
             {
                 "countryCode": "SJ",
@@ -4013,7 +4012,7 @@
                 "capital": "Longyearbyen",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "62049.0",
+                "areaInSqKm": 62049.0,
                 "languages": "no,ru",
                 "isoAlpha3": "SJM",
                 "geonameId": "607072",
@@ -4033,11 +4032,11 @@
                 "capital": "Bratislava",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "48845.0",
+                "areaInSqKm": 48845.0,
                 "languages": "sk,hu",
                 "isoAlpha3": "SVK",
                 "geonameId": "3057568",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
             },
             {
                 "countryCode": "SL",
@@ -4053,11 +4052,11 @@
                 "capital": "Freetown",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "71740.0",
+                "areaInSqKm": 71740.0,
                 "languages": "en-SL,men,tem",
                 "isoAlpha3": "SLE",
                 "geonameId": "2403846",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
             },
             {
                 "countryCode": "SM",
@@ -4073,11 +4072,11 @@
                 "capital": "San Marino",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "61.2",
+                "areaInSqKm": 61.2,
                 "languages": "it-SM",
                 "isoAlpha3": "SMR",
                 "geonameId": "3168068",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
             },
             {
                 "countryCode": "SN",
@@ -4093,11 +4092,11 @@
                 "capital": "Dakar",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "196190.0",
+                "areaInSqKm": 196190.0,
                 "languages": "fr-SN,wo,fuc,mnk",
                 "isoAlpha3": "SEN",
                 "geonameId": "2245662",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
             },
             {
                 "countryCode": "SO",
@@ -4113,11 +4112,11 @@
                 "capital": "Mogadishu",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "637657.0",
+                "areaInSqKm": 637657.0,
                 "languages": "so-SO,ar-ع-SO,it,en-SO",
                 "isoAlpha3": "SOM",
                 "geonameId": "51537",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
             },
             {
                 "countryCode": "SR",
@@ -4133,11 +4132,11 @@
                 "capital": "Paramaribo",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "163270.0",
+                "areaInSqKm": 163270.0,
                 "languages": "nl-SR,en,srn,hns,jv",
                 "isoAlpha3": "SUR",
                 "geonameId": "3382998",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
             },
             {
                 "countryCode": "SS",
@@ -4153,11 +4152,11 @@
                 "capital": "Juba",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "644329.0",
+                "areaInSqKm": 644329.0,
                 "languages": "en",
                 "isoAlpha3": "SSD",
                 "geonameId": "7909807",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
             },
             {
                 "countryCode": "ST",
@@ -4173,11 +4172,11 @@
                 "capital": "São Tomé",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1001.0",
+                "areaInSqKm": 1001.0,
                 "languages": "pt-ST",
                 "isoAlpha3": "STP",
                 "geonameId": "2410758",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/81/Flag_of_Sao_Tome_and_Principe.png"
             },
             {
                 "countryCode": "SV",
@@ -4193,11 +4192,11 @@
                 "capital": "San Salvador",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "21040.0",
+                "areaInSqKm": 21040.0,
                 "languages": "es-SV",
                 "isoAlpha3": "SLV",
                 "geonameId": "3585968",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
             },
             {
                 "countryCode": "SX",
@@ -4213,11 +4212,11 @@
                 "capital": "Philipsburg",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "21.0",
+                "areaInSqKm": 21.0,
                 "languages": "nl,en",
                 "isoAlpha3": "SXM",
                 "geonameId": "7609695",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg"
             },
             {
                 "countryCode": "SY",
@@ -4233,11 +4232,11 @@
                 "capital": "Damascus",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "185180.0",
+                "areaInSqKm": 185180.0,
                 "languages": "ar-ع-SY,ku,hy,arc,fr,en",
                 "isoAlpha3": "SYR",
                 "geonameId": "163843",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Nuvola_Syria_flag.svg?uselang=es"
             },
             {
                 "countryCode": "SZ",
@@ -4253,11 +4252,11 @@
                 "capital": "Mbabane",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "17363.0",
+                "areaInSqKm": 17363.0,
                 "languages": "en-SZ,ss-SZ",
                 "isoAlpha3": "SWZ",
                 "geonameId": "934841",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Swaziland.svg"
             },
             {
                 "countryCode": "TC",
@@ -4273,11 +4272,11 @@
                 "capital": "Cockburn Town",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "430.0",
+                "areaInSqKm": 430.0,
                 "languages": "en-TC",
                 "isoAlpha3": "TCA",
                 "geonameId": "3576916",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg"
             },
             {
                 "countryCode": "TD",
@@ -4293,11 +4292,11 @@
                 "capital": "N'Djamena",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1284000.0",
+                "areaInSqKm": 1284000.0,
                 "languages": "fr-TD,ar-ع-TD,sre",
                 "isoAlpha3": "TCD",
                 "geonameId": "2434508",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
             },
             {
                 "countryCode": "TF",
@@ -4313,11 +4312,11 @@
                 "capital": "Port-aux-Français",
                 "continentName": "Antarctica",
                 "continent": "AN",
-                "areaInSqKm": "7829.0",
+                "areaInSqKm": 7829.0,
                 "languages": "fr",
                 "isoAlpha3": "ATF",
                 "geonameId": "1546748",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Icons-flag-tf.png"
             },
             {
                 "countryCode": "TG",
@@ -4333,11 +4332,11 @@
                 "capital": "Lomé",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "56785.0",
+                "areaInSqKm": 56785.0,
                 "languages": "fr-TG,ee,hna,kbp,dag,ha",
                 "isoAlpha3": "TGO",
                 "geonameId": "2363686",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
             },
             {
                 "countryCode": "TH",
@@ -4353,11 +4352,11 @@
                 "capital": "Bangkok",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "514000.0",
+                "areaInSqKm": 514000.0,
                 "languages": "th,en",
                 "isoAlpha3": "THA",
                 "geonameId": "1605651",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
             },
             {
                 "countryCode": "TJ",
@@ -4373,11 +4372,11 @@
                 "capital": "Dushanbe",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "143100.0",
+                "areaInSqKm": 143100.0,
                 "languages": "tg,ru",
                 "isoAlpha3": "TJK",
                 "geonameId": "1220409",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
             },
             {
                 "countryCode": "TK",
@@ -4393,11 +4392,11 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "10.0",
+                "areaInSqKm": 10.0,
                 "languages": "tkl,en-TK",
                 "isoAlpha3": "TKL",
                 "geonameId": "4031074",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg"
             },
             {
                 "countryCode": "TL",
@@ -4413,11 +4412,11 @@
                 "capital": "Dili",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "15007.0",
+                "areaInSqKm": 15007.0,
                 "languages": "tet,pt-TL,id,en",
                 "isoAlpha3": "TLS",
                 "geonameId": "1966436",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg"
             },
             {
                 "countryCode": "TM",
@@ -4433,11 +4432,11 @@
                 "capital": "Ashgabat",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "488100.0",
+                "areaInSqKm": 488100.0,
                 "languages": "tk,ru,uz",
                 "isoAlpha3": "TKM",
                 "geonameId": "1218197",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
             },
             {
                 "countryCode": "TN",
@@ -4453,11 +4452,11 @@
                 "capital": "Tunis",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "163610.0",
+                "areaInSqKm": 163610.0,
                 "languages": "ar-ع-TN,fr",
                 "isoAlpha3": "TUN",
                 "geonameId": "2464461",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
             },
             {
                 "countryCode": "TO",
@@ -4473,7 +4472,7 @@
                 "capital": "Nuku'alofa",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "748.0",
+                "areaInSqKm": 748.0,
                 "languages": "to,en-TO",
                 "isoAlpha3": "TON",
                 "geonameId": "4032283",
@@ -4493,11 +4492,11 @@
                 "capital": "Ankara",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "780580.0",
+                "areaInSqKm": 780580.0,
                 "languages": "tr-TR,ku,diq,az,av",
                 "isoAlpha3": "TUR",
                 "geonameId": "298795",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
             },
             {
                 "countryCode": "TT",
@@ -4513,11 +4512,11 @@
                 "capital": "Port of Spain",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "5128.0",
+                "areaInSqKm": 5128.0,
                 "languages": "en-TT,hns,fr,es,zh",
                 "isoAlpha3": "TTO",
                 "geonameId": "3573591",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
             },
             {
                 "countryCode": "TV",
@@ -4533,11 +4532,11 @@
                 "capital": "Funafuti",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "26.0",
+                "areaInSqKm": 26.0,
                 "languages": "tvl,en,sm,gil",
                 "isoAlpha3": "TUV",
                 "geonameId": "2110297",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg"
             },
             {
                 "countryCode": "TW",
@@ -4553,11 +4552,11 @@
                 "capital": "Taipei",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "35980.0",
+                "areaInSqKm": 35980.0,
                 "languages": "zh-TW,zh,nan,hak",
                 "isoAlpha3": "TWN",
                 "geonameId": "1668284",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
             },
             {
                 "countryCode": "TZ",
@@ -4573,11 +4572,11 @@
                 "capital": "Dodoma",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "945087.0",
+                "areaInSqKm": 945087.0,
                 "languages": "sw-TZ,en,ar",
                 "isoAlpha3": "TZA",
                 "geonameId": "149590",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
             },
             {
                 "countryCode": "UA",
@@ -4593,11 +4592,11 @@
                 "capital": "Kiev",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "603700.0",
+                "areaInSqKm": 603700.0,
                 "languages": "uk,ru-UA,rom,pl,hu",
                 "isoAlpha3": "UKR",
                 "geonameId": "690791",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
             },
             {
                 "countryCode": "UG",
@@ -4613,11 +4612,11 @@
                 "capital": "Kampala",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "236040.0",
+                "areaInSqKm": 236040.0,
                 "languages": "en-UG,lg,sw,ar",
                 "isoAlpha3": "UGA",
                 "geonameId": "226074",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
             },
             {
                 "countryCode": "UM",
@@ -4633,7 +4632,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "0.0",
+                "areaInSqKm": 0.0,
                 "languages": "en-UM",
                 "isoAlpha3": "UMI",
                 "geonameId": "5854968",
@@ -4653,11 +4652,11 @@
                 "capital": "Washington",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "9629091.0",
+                "areaInSqKm": 9629091.0,
                 "languages": "en-US,es-US,haw,fr",
                 "isoAlpha3": "USA",
                 "geonameId": "6252001",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
             },
             {
                 "countryCode": "UY",
@@ -4673,11 +4672,11 @@
                 "capital": "Montevideo",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "176220.0",
+                "areaInSqKm": 176220.0,
                 "languages": "es-UY",
                 "isoAlpha3": "URY",
                 "geonameId": "3439705",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
             },
             {
                 "countryCode": "UZ",
@@ -4693,11 +4692,11 @@
                 "capital": "Tashkent",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "447400.0",
+                "areaInSqKm": 447400.0,
                 "languages": "uz,ru,tg",
                 "isoAlpha3": "UZB",
                 "geonameId": "1512440",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
             },
             {
                 "countryCode": "VA",
@@ -4713,11 +4712,11 @@
                 "capital": "Vatican City",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "0.44",
+                "areaInSqKm": 0.44,
                 "languages": "la,it,fr",
                 "isoAlpha3": "VAT",
                 "geonameId": "3164670",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg"
             },
             {
                 "countryCode": "VC",
@@ -4733,11 +4732,11 @@
                 "capital": "Kingstown",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "389.0",
+                "areaInSqKm": 389.0,
                 "languages": "en-VC,fr",
                 "isoAlpha3": "VCT",
                 "geonameId": "3577815",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
             },
             {
                 "countryCode": "VE",
@@ -4753,11 +4752,11 @@
                 "capital": "Caracas",
                 "continentName": "South America",
                 "continent": "SA",
-                "areaInSqKm": "912050.0",
+                "areaInSqKm": 912050.0,
                 "languages": "es-VE",
                 "isoAlpha3": "VEN",
                 "geonameId": "3625428",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg"
             },
             {
                 "countryCode": "VG",
@@ -4773,11 +4772,11 @@
                 "capital": "Road Town",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "153.0",
+                "areaInSqKm": 153.0,
                 "languages": "en-VG",
                 "isoAlpha3": "VGB",
                 "geonameId": "3577718",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg"
             },
             {
                 "countryCode": "VI",
@@ -4793,11 +4792,11 @@
                 "capital": "Charlotte Amalie",
                 "continentName": "North America",
                 "continent": "NA",
-                "areaInSqKm": "352.0",
+                "areaInSqKm": 352.0,
                 "languages": "en-VI",
                 "isoAlpha3": "VIR",
                 "geonameId": "4796775",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg"
             },
             {
                 "countryCode": "VN",
@@ -4813,11 +4812,11 @@
                 "capital": "Hanoi",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "329560.0",
+                "areaInSqKm": 329560.0,
                 "languages": "vi,en,fr,zh,km",
                 "isoAlpha3": "VNM",
                 "geonameId": "1562822",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
             },
             {
                 "countryCode": "VU",
@@ -4833,11 +4832,11 @@
                 "capital": "Port Vila",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "12200.0",
+                "areaInSqKm": 12200.0,
                 "languages": "bi,en-VU,fr-VU",
                 "isoAlpha3": "VUT",
                 "geonameId": "2134431",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg"
             },
             {
                 "countryCode": "WF",
@@ -4853,7 +4852,7 @@
                 "capital": "Mata-Utu",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "274.0",
+                "areaInSqKm": 274.0,
                 "languages": "wls,fud,fr-WF",
                 "isoAlpha3": "WLF",
                 "geonameId": "4034749",
@@ -4873,11 +4872,11 @@
                 "capital": "Apia",
                 "continentName": "Oceania",
                 "continent": "OC",
-                "areaInSqKm": "2944.0",
+                "areaInSqKm": 2944.0,
                 "languages": "sm,en-WS",
                 "isoAlpha3": "WSM",
                 "geonameId": "4034894",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
             },
             {
                 "countryCode": "XK",
@@ -4893,11 +4892,11 @@
                 "capital": "Pristina",
                 "continentName": "Europe",
                 "continent": "EU",
-                "areaInSqKm": "10908.0",
+                "areaInSqKm": 10908.0,
                 "languages": "sq,sr",
                 "isoAlpha3": "XKX",
                 "geonameId": "831053",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
             },
             {
                 "countryCode": "YE",
@@ -4913,11 +4912,11 @@
                 "capital": "Sanaa",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": "527970.0",
+                "areaInSqKm": 527970.0,
                 "languages": "ar-ع-YE",
                 "isoAlpha3": "YEM",
                 "geonameId": "69543",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
             },
             {
                 "countryCode": "YT",
@@ -4933,7 +4932,7 @@
                 "capital": "Mamoudzou",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "374.0",
+                "areaInSqKm": 374.0,
                 "languages": "fr-YT",
                 "isoAlpha3": "MYT",
                 "geonameId": "1024031",
@@ -4953,11 +4952,11 @@
                 "capital": "Pretoria",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "1219912.0",
+                "areaInSqKm": 1219912.0,
                 "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
                 "isoAlpha3": "ZAF",
                 "geonameId": "953987",
-	    "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/b/b7/South_Africa_Red_Ensign.png"
             },
             {
                 "countryCode": "ZM",
@@ -4973,11 +4972,11 @@
                 "capital": "Lusaka",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "752614.0",
+                "areaInSqKm": 752614.0,
                 "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
                 "isoAlpha3": "ZMB",
                 "geonameId": "895949",
-	    "flagURL":""
+	    "flagURL":"https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
             },
             {
                 "countryCode": "ZW",
@@ -4993,9 +4992,9 @@
                 "capital": "Harare",
                 "continentName": "Africa",
                 "continent": "AF",
-                "areaInSqKm": "390580.0",
+                "areaInSqKm": 390580.0,
                 "languages": "en-ZW,sn,nr,nd",
-                "flagURL":""
+"flagURL":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
 
 }
 ]

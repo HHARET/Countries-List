@@ -2333,7 +2333,7 @@
                 "capital": "Phnom Penh",
                 "continentName": "Asia",
                 "continent": "AS",
-                "areaInSqKm": 181040,
+                "areaInSqKm": "181040.0",
                 "languages": "km,fr,en",
                 "isoAlpha3": "KHM",
                 "geonameId": "1831722",
@@ -4998,5 +4998,3 @@
 
 }
 ]
-
-

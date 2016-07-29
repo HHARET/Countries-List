@@ -60,24 +60,24 @@
                     <thead>
                         <tr>
                         <th><a href="" ng-click="sortField='countryName'; reverse=!reverse" >Country Name</a></th>
-                        <th><a href="" ng-click="sortField='countryCode'; reverse=!reverse">Country Code</a></th>
-                        <th><a href="" ng-click="sortField='currencyCode'; reverse=!reverse">Currency Code</a></th>
-                        <th><a href="" ng-click="sortField='population';reverse=!reverse">Population</a></th>
-                        <th><a href="" ng-click="sortField='capital';reverse=!reverse">Capital</a></th>
-                        <th><a href="" ng-click="sortField='continentName';reverse=!reverse">Continent Name</a></th>
-                        <th><a href="" ng-click="sortField='areaInSqKm';reverse=!reverse">Area in Sqm</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='countryCode'; reverse=!reverse">Country Code</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='currencyCode'; reverse=!reverse">Currency Code</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='population';reverse=!reverse">Population</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='capital';reverse=!reverse">Capital</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='continentName';reverse=!reverse">Continent Name</a></th>
+                        <th class="hidden-xs hidden-sm"><a href="" ng-click="sortField='areaInSqKm';reverse=!reverse">Area in Sqm</a></th>
                          <th>Flag</th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr ng-repeat="country in countriesList | filter:searchValue | orderBy:sortField:reverse" >
                         <td> <a href="#/{{country.countryName}}">{{country.countryName}}</a> </td>
-                       <td> <a href="#/{{country.countryName}}">{{country.countryCode}}</a> </td>
-                       <td> <a href="#/{{country.countryName}}">{{country.currencyCode}}</a> </td>
-                      <td> <a href="#/{{country.countryName}}">{{country.population | number}}</a> </td>
-                      <td> <a href="#/{{country.countryName}}">{{country.capital}}</a> </td>
-                      <td> <a href="#/{{country.countryName}}">{{country.continentName}}</a> </td>
-                      <td> <a href="#/{{country.countryName}}">{{country.areaInSqKm}}</a> </td>
+                       <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.countryCode}}</a> </td>
+                       <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.currencyCode}}</a> </td>
+                      <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.population | number}}</a> </td>
+                      <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.capital}}</a> </td>
+                      <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.continentName}}</a> </td>
+                      <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.areaInSqKm}}</a> </td>
                         <td><img ng-src="{{country.flagURL}}" width="100"></img></td>
                       </tr>
                     </tbody>

@@ -28,6 +28,9 @@ body {
 /*
  * Sidebar
  */
+@media (min-width: 768){
+  .td-small-hide
+}
 
 /* Hide for mobile, show later */
 .sidebar {

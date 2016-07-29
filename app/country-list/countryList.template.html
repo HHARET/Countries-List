@@ -71,8 +71,8 @@
                     </thead>
                     <tbody>
                       <tr ng-repeat="country in countriesList | filter:searchValue | orderBy:sortField:reverse" >
-                        <td> <a href="#/{{country.countryName}}">{{country.countryName}}</a> </td>
-                       <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.countryCode}}</a> </td>
+                        <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.countryName}}</a> </td>
+                     <td> <a href="#/{{country.countryName}}">{{country.countryCode}}</a></td>
                        <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.currencyCode}}</a> </td>
                       <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.population | number}}</a> </td>
                       <td class="hidden-xs hidden-sm"> <a href="#/{{country.countryName}}">{{country.capital}}</a> </td>

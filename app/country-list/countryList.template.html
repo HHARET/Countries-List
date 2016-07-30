@@ -28,7 +28,28 @@
         </div>
       </nav>
          <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" >
-            <h1 class="page-header">World Countries List.. </h1>
+            <h1 class="page-header">World Countries List... </h1>
+              <div class="btn-group btn-group-justified" role="group" aria-label="Sort By..">
+                <div class="btn-group" role="group">
+                  <button ng-click="sortField='countryName'; reverse=!reverse" type="button" class="btn btn-default" style="font-weight:bolder">
+                  By alphabetical order
+                  </button>
+                </div>
+                <div class="btn-group" role="group">
+                  <button ng-click="sortField='population'; reverse=!reverse" type="button" class="btn btn-default" style="font-weight:bolder">
+                    By population
+                  </button>
+                </div>
+                <div class="btn-group" role="group">
+                <button ng-click="sortField='areaInSqKm'; reverse=!reverse" type="button" class="btn btn-default" style="font-weight:bolder">
+                    By area
+                  </button>
+                </div>
+              </div>
+
+
+
+
             <h3>{{(countriesList | filter : searchValue).length}} result(s) found  {{ searchValue | uppercase }}</h3>
             <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container-fluid">

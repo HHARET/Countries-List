@@ -1,50 +1,72 @@
 <continentList></continentList>
-<h2 class="sub-header">{{country.countryName}} Global Info</h2>
+<h2 class="sub-header">{{country.countryName}} <img ng-src="{{country.flagURL}}" width="100"></img> Global Info </h2>
  <div class="table-responsive">
    <table class="table table-striped">
-     <thead>
-         <tr>
-         <th><a href="" ng-click="sortField='countryCode'; reverse=!reverse">Country Code</a></th>
-         <th><a href="" ng-click="sortField='countryName'; reverse=!reverse" >Country Name</a></th>
-         <th><a href="" ng-click="sortField='currencyCode'; reverse=!reverse">Currency Code</a></th>
-         <th><a href="" ng-click="sortField='population';reverse=!reverse">Population</a></th>
-         <th><a href="" ng-click="sortField='fipsCode';reverse=!reverse">Fips Code</a></th>
-         <th><a href="" ng-click="sortField='isoNumeric';reverse=!reverse">Iso Numeric</a></th>
-         <th><a href="" ng-click="sortField='north';reverse=!reverse">North</a></th>
-         <th><a href="" ng-click="sortField='south';reverse=!reverse">South</a></th>
-         <th><a href="" ng-click="sortField='east';reverse=!reverse">East</a></th>
-         <th><a href="" ng-click="sortField='west';reverse=!reverse">West</a></th>
-         <th><a href="" ng-click="sortField='capital';reverse=!reverse">Capital</a></th>
-         <th><a href="" ng-click="sortField='continentName';reverse=!reverse">Continent Name</a></th>
-         <th><a href="" ng-click="sortField='continent';reverse=!reverse">Continent</a></th>
-         <th><a href="" ng-click="sortField='areaInSqKm';reverse=!reverse">Area in Sqm</a></th>
-         <th><a href="" ng-click="sortField='languages';reverse=!reverse">Languages</a></th>
-         <th><a href="" ng-click="sortField='isoAlpha3';reverse=!reverse">Iso Alpha 3</a></th>
-         <th><a href="" ng-click="sortField='geonameId';reverse=!reverse">Geo Name id</a></th>
-          <th>Flag</th>
-       </tr>
-     </thead>
      <tbody>
        <tr>
+        <th><a href="" ng-click="sortField='countryCode'; reverse=!reverse">Country Code</a></th>
         <td> <a href="#/{{country.countryName}}">{{country.countryCode}}</a> </td>
-        <td> <a href="#/{{country.countryName}}">{{country.countryName}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='currencyCode'; reverse=!reverse">Currency Code</a></th>
         <td> <a href="#/{{country.countryName}}">{{country.currencyCode}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.population | number}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.fipsCode}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.isoNumeric}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.north}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.south}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.east}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.west}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.capital}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.continentName}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.continent}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.areaInSqKm}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.languages}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.isoAlpha3}}</a> </td>
-       <td> <a href="#/{{country.countryName}}">{{country.geonameId}}</a> </td>
-         <td><img ng-src="{{country.flagURL}}" width="100"></img></td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='population';reverse=!reverse">Population</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.population | number}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='fipsCode';reverse=!reverse">Fips Code</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.fipsCode}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='isoNumeric';reverse=!reverse">Iso Numeric</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.isoNumeric}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='north';reverse=!reverse">North</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.north}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='south';reverse=!reverse">South</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.south}}</a> </td>
+      </tr>
+      <tr>
+         <th><a href="" ng-click="sortField='east';reverse=!reverse">East</a></th>
+         <td> <a href="#/{{country.countryName}}">{{country.east}}</a> </td>
+      </tr>
+      <tr>
+           <th><a href="" ng-click="sortField='west';reverse=!reverse">West</a></th>
+           <td> <a href="#/{{country.countryName}}">{{country.west}}</a> </td>
        </tr>
+       <tr>
+         <th><a href="" ng-click="sortField='capital';reverse=!reverse">Capital</a></th>
+         <td> <a href="#/{{country.countryName}}">{{country.capital}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='continentName';reverse=!reverse">Continent Name</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.continentName}}</a> </td>
+      </tr>
+      <tr>
+       <th><a href="" ng-click="sortField='continent';reverse=!reverse">Continent</a></th>
+       <td> <a href="#/{{country.countryName}}">{{country.continent}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='areaInSqKm';reverse=!reverse">Area in Sqm</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.areaInSqKm}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='languages';reverse=!reverse">Languages</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.languages}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='isoAlpha3';reverse=!reverse">Iso Alpha 3</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.isoAlpha3}}</a> </td>
+      </tr>
+      <tr>
+        <th><a href="" ng-click="sortField='geonameId';reverse=!reverse">Geo Name id</a></th>
+        <td> <a href="#/{{country.countryName}}">{{country.geonameId}}</a> </td>
+      </tr>
      </tbody>
    </table>
 </div>

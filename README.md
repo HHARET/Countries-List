@@ -1,7 +1,5 @@
-Country list using angular
+#Country list 
+it is a perosonal country list test app using angular and bootstrap template.
+some features including general search, continent links.. 
+still in progress
 
-//The problem: when starting the app locally using node, nodemon or npm the app strats correctly, but when shutting it down it shuts but the port on where the app is hosted keeps occupied.
-
-//Solution
-Use netstat -ano | finstr 'portNumber'
-taskkill /PID 'portNumber' -f 
